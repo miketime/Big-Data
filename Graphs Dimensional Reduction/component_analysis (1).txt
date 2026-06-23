@@ -1,0 +1,165 @@
+DIMENSIONALITY REDUCTION COMPONENT ANALYSIS
+================================================================================
+
+PCA COMPONENT ANALYSIS
+==================================================
+
+PRINCIPAL COMPONENT 1
+------------------------------
+TOP 15 CONTRIBUTING FEATURES:
+    1. price                               | -0.612459
+    2. manufacturing_year                  | -0.536331
+    3. km_no                               | +0.405949
+    4. engine_hp                           | -0.327796
+    5. transmission_type_A                 | -0.184094
+    6. transmission_type_M                 | +0.137832
+    7. body_SUV                            | -0.056971
+    8. transmission_type_missing           | +0.046279
+    9. body_Hatchback                      | +0.031767
+   10. body_Break                          | +0.029624
+   11. engine_cc                           | -0.028885
+   12. doors_no                            | +0.025745
+   13. fuel_type_D                         | +0.025349
+   14. body_Sedan                          | -0.021643
+   15. make_BMW                            | -0.021248
+
+PRINCIPAL COMPONENT 2
+------------------------------
+TOP 15 CONTRIBUTING FEATURES:
+    1. engine_hp                           | +0.618211
+    2. km_no                               | +0.512782
+    3. engine_cc                           | +0.401046
+    4. manufacturing_year                  | -0.262183
+    5. fuel_type_D                         | +0.167467
+    6. transmission_type_A                 | +0.158015
+    7. fuel_type_U                         | -0.143392
+    8. price                               | +0.138426
+    9. transmission_type_M                 | -0.119046
+   10. make_BMW                            | +0.062831
+   11. make_DACIA                          | -0.054182
+   12. doors_no                            | -0.053203
+   13. make_AUDI                           | +0.042151
+   14. body_Hatchback                      | -0.041945
+   15. transmission_type_missing           | -0.038992
+
+PRINCIPAL COMPONENT 3
+------------------------------
+TOP 15 CONTRIBUTING FEATURES:
+    1. doors_no                            | -0.985694
+    2. transmission_type_missing           | -0.091252
+    3. transmission_type_M                 | +0.078431
+    4. fuel_type_D                         | -0.053653
+    5. fuel_type_U                         | +0.052091
+    6. engine_hp                           | -0.044657
+    7. price                               | -0.035704
+    8. body_Coupe                          | +0.035390
+    9. body_SUV                            | -0.033914
+   10. engine_cc                           | +0.026435
+   11. manufacturing_year                  | +0.017646
+   12. body_Sedan                          | +0.016469
+   13. transmission_type_A                 | +0.012799
+   14. body_Break                          | -0.012676
+   15. body_Combi                          | -0.011950
+
+
+t-SNE DIMENSION ANALYSIS
+==================================================
+
+t-SNE DIMENSION 1
+------------------------------
+TOP 15 CORRELATED FEATURES:
+    1. fuel_type_D                         | -0.324255
+    2. fuel_type_U                         | +0.298294
+    3. transmission_type_M                 | -0.296609
+    4. doors_no                            | +0.282985
+    5. transmission_type_A                 | +0.197509
+    6. km_no                               | -0.181899
+    7. transmission_type_missing           | +0.137633
+    8. price                               | +0.126323
+    9. fuel_type_HIBRID                    | +0.092228
+   10. engine_hp                           | +0.078141
+   11. body_Break                          | -0.066962
+   12. make_LAND ROVER                     | +0.063665
+   13. make_BMW                            | -0.054102
+   14. body_Monovolum                      | -0.054098
+   15. make_MINI                           | +0.053504
+
+t-SNE DIMENSION 2
+------------------------------
+TOP 15 CORRELATED FEATURES:
+    1. engine_cc                           | +0.417942
+    2. doors_no                            | +0.233995
+    3. fuel_type_D                         | +0.156501
+    4. transmission_type_missing           | -0.155782
+    5. fuel_type_U                         | -0.144495
+    6. body_Hatchback                      | -0.106658
+    7. price                               | +0.089484
+    8. km_no                               | +0.069926
+    9. transmission_type_M                 | +0.069780
+   10. make_RENAULT                        | -0.065143
+   11. make_AUDI                           | +0.064634
+   12. make_VOLKSWAGEN                     | +0.061545
+   13. engine_hp                           | +0.060646
+   14. body_Berlina                        | +0.058566
+   15. fuel_type_E                         | -0.055069
+
+
+UMAP DIMENSION ANALYSIS
+==================================================
+
+UMAP DIMENSION 1
+------------------------------
+TOP 15 CORRELATED FEATURES:
+    1. fuel_type_U                         | -0.087246
+    2. make_VOLKSWAGEN                     | +0.086877
+    3. fuel_type_D                         | +0.083363
+    4. fuel_type_E                         | +0.059128
+    5. km_no                               | +0.057362
+    6. make_OPEL                           | -0.057241
+    7. make_VOLVO                          | -0.054617
+    8. body_Berlina                        | +0.051425
+    9. body_Break                          | +0.051383
+   10. doors_no                            | -0.050087
+   11. transmission_type_A                 | +0.049824
+   12. body_SUV                            | -0.049465
+   13. transmission_type_M                 | -0.049164
+   14. make_PEUGEOT                        | -0.047766
+   15. make_MAZDA                          | -0.045019
+
+UMAP DIMENSION 2
+------------------------------
+TOP 15 CORRELATED FEATURES:
+    1. doors_no                            | -0.145910
+    2. transmission_type_M                 | -0.087421
+    3. transmission_type_A                 | +0.085665
+    4. engine_cc                           | +0.082105
+    5. body_Coupe                          | +0.079951
+    6. make_BMW                            | +0.066687
+    7. make_VOLKSWAGEN                     | -0.060679
+    8. body_Minibus                        | -0.058801
+    9. body_Cabrio                         | +0.053145
+   10. body_Monovolum                      | -0.042944
+   11. make_PORSCHE                        | +0.040042
+   12. make_SUZUKI                         | +0.038554
+   13. body_Sedan                          | +0.036585
+   14. engine_hp                           | +0.035933
+   15. make_HYUNDAI                        | -0.034742
+
+UMAP DIMENSION 3
+------------------------------
+TOP 15 CORRELATED FEATURES:
+    1. engine_cc                           | -0.126615
+    2. fuel_type_U                         | +0.063182
+    3. body_Break                          | +0.055781
+    4. fuel_type_D                         | -0.052129
+    5. make_VOLVO                          | +0.049448
+    6. make_RENAULT                        | +0.047824
+    7. make_AUDI                           | +0.046609
+    8. make_LAND ROVER                     | +0.044814
+    9. price                               | -0.040141
+   10. make_CHEVROLET                      | -0.038226
+   11. transmission_type_missing           | +0.032627
+   12. transmission_type_A                 | -0.032031
+   13. make_OPEL                           | +0.031812
+   14. body_Berlina                        | -0.030617
+   15. make_VOLKSWAGEN                     | -0.030132

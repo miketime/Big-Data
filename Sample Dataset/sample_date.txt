@@ -1,0 +1,2499 @@
+"id","make","model","version","manufacturing_year","engine_hp","engine_cc","fuel_type","battery_kwh","transmission_type","body","driven_wheels","doors_no","passengers_no","km_no","price","currency","price_details","offered_by","vin","dealer_warranty_included","pollution_norm","co2_emissions","tech_state","origin_country","location","county","equipments","description","particulate_filter","ad_url","first_registration_date","registered","owner_no","service_history","color","metallic_paint","date_posted","created","add_date","add_id","category","cc","collection_date","first_owner","gearbox","generation","image","ingest_file_id","vehicle_manufacturer","manufacturer_year","vehicle_model","name","postal_code","registration_date","site_id","source","state","tuning"
+"00001018-86f2-4018-8777-0bde21bd3732",\N,\N,"xDrive30i Aut.",\N,"245",\N,"U",\N,"A",\N,\N,"5",\N,"27700","44750.00","EUR","Negociabil, Se emite factura","Firma",\N,\N,"Euro 6",\N,\N,"Germania","WORLD TRADE CENTER, P-TA MONTREAL NR 10, INTRAREA - 011469 Bucuresti, Sectorul 1 (Romania)","Bucuresti","","
+        Pret fara TVA : 44.750 Euro
+
+Posibilitate achizitie la PRET NET(inclusiv finantare leasing), pentru persoane juridice
+Autoturism disponibil in stoc extern. Termen de livrare 5 zile.
+PRETUL INCLUDE TOATE CHELTUIELILE DE IMPORT incl TRANSPORT
+ 
+Andrei Burlacu
+Tel:  072 - arata numarul - 
+Managing Partner
+
+PLUS AUTOTRADE activează în domeniul auto din anul 2010, fiind in momentul de fata lider pe piața de comenzi automobile noi și rulate – import Germania.
+Servicii oferite :
+- Posibilitatea achiziției la prețul net fară TVA, exclusiv pentru companii plătitoare de TVA.
+- Posibilitatea de leasing fara TVA, creditare externa prin BCR Leasing.
+- Pretul poate include cheltuielile de transport si comisionul dealerului.
+- Consultanță de specialitate în selectarea modelului ideal, beneficiind de 15 ani de experiență în domeniu!
+- Prețuri preferențiale negociate exclusiv cu partenerii noștri internaționali.
+- Preaprobarea financiară a dosarului de leasing pe loc!
+- Garanție inclusă 12 luni! Posibilitate de extindere a garanției acordate de producător până la 5 ani sau 200.000 km.
+- Oferte avantajoase de BUY-BACK pentru autoturismul dumneavoastră.
+În plus, la sediul nostru puteți încheia asigurări RCA si CASCO și puteți opta pentru serviciile de înmatriculare provizorie și definitivă!
+
+Posibilitate de finanțare în sistem leasing sau credit cu dobândă incepând de la 3.5%, avans incepând de la 20%, pe o perioadă de la 12 până la 60 de luni, prin partenerii noștri:
+- Unicredit leasing
+- Idea Leasing
+- Tiriac Leasing
+- BRD Sogelease
+- OTP Leasing
+- BT Leasing
+- Raiffeisen Leasing
+- Impuls Leasing
+
+Echipamente Optionale :
+
+ABS
+
+Adaptive cornering lights
+
+Alarm system
+
+Alloy wheels
+
+Ambient lighting
+
+Arm rest
+
+Autom. dimming interior mirror
+
+Blind spot assist
+
+Bluetooth
+
+Cargo barrier
+
+Central locking
+
+Cruise control
+
+Digital cockpit
+
+Distance warning system
+
+Electric side mirror
+
+Electric tailgate
+
+Electric windows
+
+Emergency brake assist
+
+Emergency call system
+
+ESP
+
+Fatigue warning system
+
+Four wheel drive
+
+Full Service History
+
+Hands-free kit
+
+Head-up display
+
+Heated rear seats
+
+Heated seats
+
+Immobilizer
+
+Integrated music streaming
+
+Isofix
+
+Keyless central locking
+
+Lane change assist
+
+Laser headlights
+
+Leather steering wheel
+
+LED running lights
+
+Light sensor
+
+Lumbar support
+
+Multifunction steering wheel
+
+Navigation system
+
+Non-smoker vehicle
+
+On-board computer
+
+Paddle shifters
+
+Panoramic roof
+
+Power Assisted Steering
+
+Rain sensor
+
+Roof rack
+
+Sound system
+
+Sport seats
+
+Start-stop system
+
+Sunroof
+
+Touchscreen
+
+Traction control
+
+Traffic sign recognition
+
+Tyre pressure monitoring
+
+USB port
+
+Voice control
+
+Warranty
+
+WLAN / WiFi hotspot    ","Da",\N,\N,\N,\N,\N,"Negru",\N,\N,"2023-11-28 03:18:42","2023-03-07","https://www.autovit.ro/anunt/bmw-x3-xdrive30i-aut-ID7H8W1x.html","Autoturisme","1998","2023-03-07",\N,"Automata",\N,"https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im1pN3N0dDlpODc0YzItQVVUT1ZJVFJPIiwidyI6W3siZm4iOiJxN216NTNiaWZwemstQVVUT1ZJVFJPIiwicyI6IjE2IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.IyrRnwElp9cZkvhKrZzTQlkh5gr5rVxZtTr1sKsht5k/image;s=732x488",\N,"BMW","2022","X3","BMW X3 xDrive30i Aut.","011469","2021-12-31","7050438099","AUTOVIT","Second hand",\N
+"0000205b-915b-5378-a7f4-3daaebece5ff","CITROEN","JUMPER","None","2012","131",\N,"D",\N,"missing","None",\N,\N,\N,"233000","6042.02","NONE","None","None","",\N,"NONE",\N,"NONE","NONE","None","None","None","None","None","None",\N,"NONE",\N,\N,"NONE","NONE","2019-06-02","2021-10-11 14:25:10",\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N
+"0000335c-9e28-5f64-8be7-b8676ce7dd5d","FORD","RANGER","None","2018","200",\N,"D",\N,"missing","None",\N,\N,\N,"800","31989.90","NONE","None","None","",\N,"NONE",\N,"NONE","NONE","None","None","None","None","None","None",\N,"NONE",\N,\N,"NONE","NONE","2019-06-02","2021-10-11 14:25:10",\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N
+"00003cdc-e2d8-4369-b653-49fcc02b5025",\N,\N,"2.0 TDI quattro S tronic",\N,"190",\N,"D",\N,"A",\N,\N,"5",\N,"162000","26300.00","EUR","Negociabil","Proprietar",\N,\N,\N,\N,\N,\N,"Cluj-Napoca, Judet Cluj","Cluj","","
+        Daylight Led Neon ( Lumina de zi )
+-motor 2l 190cp euro6
+-162000 km carte service
+- Stopuri Ful LED Spate 
+- SEMNALIZARI LED
+- INTERIOR SPORT 
+- Interior sport 
+-scaune piele
+- Pachet NIKEL exterior ( Toate ornamentele exterioare cromate)
+- Portbagaj actionat electric cu SOFT CLOSE
+- NAVI MMI PLUS - Navigatie 3D Mare 
+- AUDI CONNECT / Smartphone Interface 
+- DVD (se pot viziona filme)/ CD/ MP3/2XSD CARD/ 2XUSB/ AUX/ BLUETOOTH, Memorie Interna 84Gb (Redare Video in Mers)
+- CARPLAY
+-încărcare wireless 
+- Keyless Go ( pornire / oprire motor pe buton)
+- DRIVE SELECT + (Efficient, Comfort, Dinamic, Auto, Individual) + FUNCTIE ALLROAD
+- AUDI PRE SENSE (Franeaza singura in caz de coliziune cu un obstacol)
+- Senzori parcare 
+- Parking Assist – Masina parcheaza singura 
+- Asistenţă coborâre in pantă HDC
+- Start / Stop Semafor (consum redus)
+- Auto Hold (mentine auto in rampa)
+- Sim Telefon cu conexiune de Internet
+- PADELE VOLAN
+- VOLAN multifunctional inclusiv comenzi vocale
+- LUMINI AMBIENTALE IINTERIOR Praguri + Podea. (LED ALB) 
+- Pachet Extins de LUMINI AMBIENTALE Exterior, Manere Usi (LED ALB)
+- Oglinda Dreapta cu Asistenta la mersul inapoi
+- Oglinzi Electrice, Incalzite si Heliomate 
+- Private Glass - Geamuri spate duble fumurii ce asigura si comfort termic 
+- ISOFIX
+- JANTE Aliaj Originale AUDI S-Line R18
+- 2 CHEI    ","Da",\N,\N,\N,\N,\N,"Negru",\N,\N,"2023-11-28 06:46:17","2023-05-23","https://www.autovit.ro/anunt/audi-q5-2-0-tdi-quattro-s-tronic-ID7Hc7hV.html","Autoturisme","1968","2023-05-23",\N,"Automata","FY [2016 - Prezent]","https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjJmamFkaGwzYXQwaDMtQVVUT1ZJVFJPIiwidyI6W3siZm4iOiJxN216NTNiaWZwemstQVVUT1ZJVFJPIiwicyI6IjE2IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.oSe7jFcTiMoIrUItHN3LdMOntuyN26jTqmjTz6rVC5w/image;s=732x488",\N,"AUDI","2017","Q5","Audi Q5 2.0 TDI quattro S tronic",\N,"2017-05-31","7051200228","AUTOVIT","Second hand",\N
+"0000436e-6d91-5502-9a1a-907641bcb632","VOLKSWAGEN","JETTA","1.2 TSI BlueMotion Technology","2011","105","1197","U",\N,"M","Sedan",\N,"4",\N,"107000","7300.00","EUR","Negociabil","Proprietar","",\N,"EURO 5",\N,"SECOND HAND","ROMANIA","Bucuresti, Judet Bucuresti, Sectorul 1","Bucuresti","ABS, CD, Geamuri fata electrice, Servodirectie, Airbag-uri laterale spate, Camera parcare spate, Geamuri cu tenta, Imobilizator electronic, Limitator de viteza, Oglinzi retrovizoare ajustabile electric, Pilot automat, Senzori parcare fata-spate, Airbag-uri frontale, Computer de bord, Inchidere centralizata, Aer conditionat patru zone, Alarma, Controlul tractiunii (ASR), Geamuri laterale spate fumurii, Intrare auxiliara, Lumini de zi (LED), Oglinzi retrovizoare exterioare electrocromatice, Proiectoare ceata, Airbag-uri laterale fata, Controlul stabilitatii (ESP), Radio, Airbag-uri cortina, Bluetooth, DVD, Geamuri spate electrice, Jante din aliaj usor, Navigatie GPS, Oglinzi retrovizoare incalzite, Scaune fata incalzite","JETTA CONFORTLINE foarte dotata stare ca noua nu necesita reparatii este permanent intretinuta si verificata .Sunt primul proprietar , ca si dotari masina vine cu : suspensie indepententa fata  spate , pachet iarna -scaune incalzite, duze incalzite parbriz , spalator faruri , cotiera fata  reglabila lungime inaltime , priza 22o V cotiera , sistem Navigatie Android si camera  fata spate + senzori parcare fata spate , radar viteza si detectarea  distantei  masinilor fata, alarma Viper, al doilea rand de roti Iarna ( Cauciucuri premium :  MichelinAlpin 6 Iarna- jante tabla Vag 16/ Continental Premium contact 6 Vara-jante aliaj 16 ) .
+Accept orice fel de test in service autorizat sau partener Vag.","","None","2011-07-07","DA",\N,\N,"MARO","DA","2021-04-02","2021-10-11 15:48:43",\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N
+"000068f1-26b5-5ade-8aea-75eecb8b3ae9","HONDA","ACCORD","None","2008","190",\N,"U",\N,"missing","None",\N,\N,\N,"236000","4957.98","NONE","None","None","",\N,"NONE",\N,"NONE","NONE","None","None","None","None","None","None",\N,"NONE",\N,\N,"NONE","NONE","2018-05-30","2021-10-11 14:25:10",\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N
+"00006e0c-8367-5ea6-9722-6ab588041fe0","NISSAN","QASHQAI+2","None","2010","150",\N,"D",\N,"missing","None",\N,\N,\N,"187000","6554.62","NONE","None","None","",\N,"NONE",\N,"NONE","NONE","None","None","None","None","None","None",\N,"NONE",\N,\N,"NONE","NONE","2018-07-29","2021-10-11 14:25:10",\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N
+"00006f1a-80af-5b23-b73b-c5e95365a335","MERCEDES","VITO","None","2006","163","21433","D",\N,"M","None",\N,"4",\N,"400000","7300.00","EUR","Negociabil","Proprietar","None",\N,"NONE",\N,"SECOND HAND","NONE","Focsani, Judet Vrancea","","","AUTOTURISM
+
+Mercedes Vito 2.2 CDI 150 CP XXL Model Lung
+
+8+1 locuri 
+
+6+1 trepte Manuala
+
+Fabr 10.2005
+
+Clima 
+Navigatie
+4X Geamuri si oglinzi electrice
+Jante aliaj 18"" originale Mercedes Benz
+Bari longitudinale
+Senzori parcare spate
+Folie geamuri omologata RAR
+Etc ...
+
+Recent au fost inlocuite consumabilele
+
+Toate taxele la zi, se va elibera fiscal","None","https://www.autovit.ro/anunt/mercedes-benz-vito-ID7HcQcn.html",\N,"DA",\N,\N,"ROSU","NONE","2023-06-18","2023-06-19 18:02:55",\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N
+"00007dd3-9f28-5c85-8926-b54629a8489a","MAZDA","CX-5","None","2016","150","2198","D",\N,"A","SUV","None","5",\N,"190000","12500.00","RON","None","Persoana fizica","None","None","NONE","None","NONE","ROMANIA","Miercurea-Ciuc","Harghita","None","DESCRIERE
+De vanzare Mazda cx5 an fabricatie 2016, de la proprietar, stare foarte buna, piele, navigatie, pretul este negociabil in limita bunului simt. Pentru pretentiosi, neseriosii sa se abtina.","None","https://www.olx.ro/d/oferta/mazda-cx5-proprietar-IDhEpcX.html",\N,"INMATRICULAT","None","None","ARGINTIU","NONE","2023-10-20","2023-10-26 10:50:50",\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N
+"00008cc0-6ffb-5d94-9527-01bb3b623b24","VOLKSWAGEN","CADDY","1.6 Life Style (7-Si.)","2010","102","1598","U",\N,"M","None",\N,"5",\N,"289000","5712.00","EUR","TVA deductibil, Negociabil, Se emite factura","Firma","None",\N,"EURO 4",\N,"SECOND HAND","GERMANIA","Calea Sighisoarei/DN13/E60, Corunca, Romania, nr.3 - 540292 Corunca, Judet Mures (Romania)","","","Vw Caddy 1.6 benzina 7 Locuri !!!  Stare tehnica si estetica foarte buna. Dotari: Klima, Airbag, Servo total, Inchidere Centrala cu chei cu telecomanda, Bord computer, Proiectoare ceata, Oglinzi electrice, CD-player, etc. ...
+
+ ABS (sistem antiblocare)
+ Computer de bord
+ Cotiera centrala: fata
+ Dispozitiv pentru reglarea automata a vitezei Tempomat
+ Diverse revopsiri
+ ESP (sistem electronic de control al stabilitatii)
+ Faruri de ceata
+ Geamuri actionate electric: fata
+ Geamuri spate fumurii
+ Instalatie de climatizare
+ Inchidere centralizata cu telecomanda
+ Material: albastru/gri
+ Numar airbaguri: 4
+ Numar scaune: 7
+ Oglinda exterioara: reglabil electric
+ Radio, CD ( RCD 200 )
+ Senzori de parcare (APS - senzori acustici de parcare )
+( spate )
+ Servodirectie
+
+-Se ofera factura fiscala si toate actele necesare inmaticularii, Certificari fiscale inclusiv consultanta si Nr. provizorii !!!
+Se poate plati in Lei curs BT!!!
+
+***Prezenta in stoc, o gama variata de modele Vw Caddy, diferite modele si motorizari incepand cu anul 2005 pana in 2020!!!***
+**Finantare !!!**
+
+**Permanent peste 50 de masini in oferta!!!**","None","https://www.autovit.ro/anunt/volkswagen-caddy-1-6-life-style-7-si-ID7HeEDN.html",\N,"NONE","None",\N,"ALBASTRU","NONE",\N,"2023-08-11 18:03:16",\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N
+"0000c09f-19fd-4581-aed8-74baab38dce9",\N,\N,"1.6 TDCi DPF Titanium",\N,"95",\N,"D",\N,"M",\N,\N,"5",\N,"205000","4250.00","EUR","","Proprietar",\N,\N,"Euro 5",\N,\N,\N,"Baia Mare, Judet Maramures","Maramures","","
+        Vand Ford Fiesta, varianta de echipare Titanium.  Masina functioneaza impecabil, toate sistemele fiind in perfecta stare de functionare. Dotari: aer conditionat. jante aliaj, ABS, ESP, AFU, proiectoare ceata, geamuri electrice fata, distributie electronica a fortei de franare, tempomat.    ","Da",\N,\N,"Da",\N,\N,"Albastru",\N,\N,"2023-11-28 06:49:12","2023-05-24","https://www.autovit.ro/anunt/ford-fiesta-1-6-tdci-dpf-titanium-ID7Hc8wp.html","Autoturisme","1560","2023-05-24",\N,"Manuala","VII [2008 - 2017]","https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InlpZzZiYnh4ZzZpZy1BVVRPVklUUk8iLCJ3IjpbeyJmbiI6InE3bXo1M2JpZnB6ay1BVVRPVklUUk8iLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.8RJjxdXTH3g4DxXoQUi5wIUEnmaD-XEkOLqweIrWe34/image;s=732x488",\N,"FORD","2010","FIESTA","Ford Fiesta 1.6 TDCi DPF Titanium",\N,"2010-09-29","7051204907","AUTOVIT","Second hand",\N
+"0000c35e-95a8-518a-97fc-32e37445915b","MERCEDES","CLS-CLASS","None","2005",\N,"3500","U",\N,"A","Berlina",\N,\N,\N,"320000","3800.00","EUR","","Proprietar","",\N,"",\N,"UTILIZAT","","Bucuresti, judet Bucuresti, Sectorul 6","Bucuresti","","Mercedes CLS 2005 AMG VAnd urgent 3800a , maETMina este AntreEinutA nu are nici cea mai micA problema. Schimb doar cu aur ETMi telefoane.
+NU SCHIMB CU MAE INI !!!","","https://www.olx.ro/oferta/mercedes-cls-IDeQ4pp.html#52c057e66a","2005-05-31","",\N,\N,"GRI","","2021-04-21","2021-10-19 17:24:14",\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N
+"0000e4ba-ea87-51fc-9a45-ac9c99d37662","VOLKSWAGEN","GOLF","None","2015","110","160","D",\N,"M","Break","None","5",\N,"230000","10800.00","RON","None","Persoana fizica","None","None","NONE","None","NONE","ROMANIA","None","None","None","DESCRIERE
+Vw Golf 7 Euro 6 fara AD Blue Proprietar ,masina este personala cu actele si service-urile la zi
+
+Masina se afla in stare foarte buna fara probleme tehnice ,interior foarte intretinut ca si nou
+Consumabile inlocuite
+Nu necesita nici un fel de investiti
+Amortizoare fata inlocuite noi cu tot cu flanse
+Amortizoare spate inlocuite
+Placute fata -spate noi
+Suporti motor inlocuiti
+Ambreiajul a fost inlocuit
+Baterie noua cu AGM Bosch
+
+Dotari:
+Camera marsalier in emblema
+Senzori parcare fata-spate 360
+Pilot automat cu functia tempomat
+Navigatie mare cu harti actualizate la zi
+Interior cu alcantare in stare ca nou
+Proiectoare cu functia Cornering
+Lumini ambientale picioare si fete de usi
+Torpedou refrigerat
+Clima
+Alarma
+Isofix
+Jante aliaj r17
+Volan imbracat in piele +comenzi
+Ceasuri bord Needle Sweep
+Geamuri electrice
+Folie Geamuri Lummar fata si spate
+Camera monitorizare trafic Xiaomi 70
+Mai Pro fata si spate
+Carlig remorcare
+AUTO-HOLD","None","https://www.olx.ro/d/oferta/vw-golf-7-euro-6-proprietar-IDi1zTw.html",\N,"INMATRICULAT","None","None","GRI","NONE","2024-03-18","2024-03-23 03:07:19","2024-04-15",\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N
+"0000ebfd-0fcf-50f5-919f-a278352bbc51","MITSUBISHI","PAJERO","None","2000",\N,"2500","D",\N,"M","Off-road",\N,\N,\N,"200000","3800.00","EUR","","Proprietar","",\N,"",\N,"UTILIZAT","","Cluj-Napoca, judet Cluj","Cluj","","VAnd Hyundai galloper identic pajero
+Vopsita raptor
+Autoutilitar N1
+Inmatriculat Ro fiscal pe loc 
+AZnchidere centralizata din cheie 
+Usa din spate cu deschidere electrica
+Motor 2.5
+Snorkel 
+ApArAtori noroi (bandouri din cauciuc) 
+Pilot automat
+Geamuri electrice
+Oglinzi electrice
+Anvelope de teren 31 10.5 15
+Jante aliaj
+Bara fata metal ARB
+Cabluri pentru crengi
+Troliu 13000 lbs
+Camera mansalier
+Scaune piele
+Proiectoare
+Led bar
+Proiectoare led mansalier
+StaEie radio CB
+SaETMiu impecabil fArA suduri kit etc... Serie vizibila perfect 
+Carlig remorcare
+Mai multe detalii la tel  752 - arata telefon -   760 - arata telefon -","","https://www.olx.ro/oferta/hyundai-galloper-autoutilitar-echipat-off-road-IDeGIE8.html#34598cb303","2000-05-31","",\N,\N,"ALBASTRU","","2021-04-15","2021-10-19 17:23:49",\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N
+"0000fc81-6753-55c7-8bbf-906b3549e2e5","SKODA","OCTAVIA","None","2009","105","159","D",\N,"M","Break","None","5",\N,"305000","4500.00","RON","None","Persoana fizica","None","None","NONE","None","NONE","ROMANIA","None","None","None","DESCRIERE
+Skoda Octavia 2 1.6 TDI 4x4 din 2009
+-ac
+-scaune incalzite
+-oglinzi electrice
+-senzori parcare spate
+Mai multe detalii la telefon","None","https://www.olx.ro/d/oferta/skoda-octavia-2-1-6-tdi-4x4-IDifbCY.html",\N,"INMATRICULAT","None","None","GRI","NONE","2024-04-27","2024-05-03 12:11:04","2024-05-04",\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N
+"0001031f-eabf-483a-b9f7-7494f8c89ab3",\N,\N,"Cabrio",\N,"116",\N,"U",\N,"M",\N,\N,"2",\N,"169000","2200.00","EUR","Negociabil","Proprietar",\N,\N,\N,\N,\N,\N,"Sacele, Judet Brasov","Brasov","","
+            ",\N,\N,\N,"Da",\N,\N,"Verde",\N,\N,"2023-11-28 08:03:52","2023-06-17","https://www.autovit.ro/anunt/mini-cooper-cabrio-ID7HcPUV.html","Autoturisme","1598","2023-06-17",\N,"Manuala",\N,"https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InNzNHpkbzFuankzNDItQVVUT1ZJVFJPIiwidyI6W3siZm4iOiJxN216NTNiaWZwemstQVVUT1ZJVFJPIiwicyI6IjE2IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.Ynpy0KySdIsG_6iogmohtAb2IADVG_-NEApg56cjTUM/image;s=732x488",\N,"MINI","2002","COOPER","Mini Cooper Cabrio",\N,"2002-08-13","7051371782","AUTOVIT","Second hand",\N
+"000137fc-efe1-53ec-bc4e-e718ebf2fe2b","TESLA","MODEL 3","None","2023","441",\N,"E",\N,"A","Berlina","None","4",\N,"1500","44000.00","RON","None","Persoana fizica","LRW3E7EK0PC747881","None","NONE","None","NONE","ROMANIA","None","None","None","DESCRIERE
+Dual motor, tractiune integrala, 441cp, 602 km autonomie, baterie 82KWh
+Primul proprietar
+Inmatriculat in 5 mai 2023
+Pretul include TVA
+TVA deductibil
+Fara accident
+Nu a fost cumparata prin Rabla Plus","None","https://www.olx.ro/d/oferta/vand-tesla-model-3-long-range-1500km-an-2023-tva-deductibil-IDhJGhs.html",\N,"INMATRICULAT","None","None","GRI","NONE","2023-11-08","2023-11-29 11:47:17",\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N
+"0001389d-0cb0-58ac-8bc7-c165adf8cfed","AUDI","A5","None","2015","190","200","D",\N,"A","Berlina","None","4",\N,"242800","81000.00","RON","None","Persoana fizica","None","None","NONE","None","NONE","ROMANIA","None","None","None","DESCRIERE
+Se vinde A5 2015 pachet S-Line , Full option
+Inmatriculata - Propietar
+Toate actele valabile
+Fiscal pe loc
+Schimburi facute recent/facturi valabile
+Ulei cutie filtre schimbate
+Schimbat Kit Distributie , kit accesorii
+Carte service
+Km reali verificabili
+
+Ca dotari se remarca prin :
+
+190 cp quattro
+Pachet S -line impecabila
+Jante 19
+Anvelope noi
+Trapa
+Plafon negru
+Volan S-line
+Padele
+Distronic ( urmareste masina din fata ei copiaza mersul , franeaza la urgenta )
+Line assist ( tine banda si vibreaza volanul la iesire in decor )
+Lumini ambientale
+Oglinzi electrice pliabile incalzite
+Memorii scaune
+Scaune full electrice (s line ) incalzite
+Automata (7+1)
+Mod DRIVE Select ( din volan , consola , joystick )
+5 moduri de condus
+Camera marsarier
+Senzori fata spate
+Camera faza lunga
+Citeste semnele in bord de circulatie
+Cotiera
+Cusaturi albe
+Audi multimedia : magazie 6 cd uri , slot 2 carduri , sim )
+Bass porbagaj fabrica
+etc ..
+
+Masina este foarte bine intretinuta , cu schimburi de ulei intre 8 si 10 mii / km
+Nu are nici o zgarietura pe interior sau exterior.
+Este perfecta din orice punct de vedere. Impecabila !
+Toate consumabilele schimbate
+Nu necesita nici o Investitie .","None","https://www.olx.ro/d/oferta/a5-s-line-full-keylessentry-go-lineasist-acc-trapa-2-0tdi-190cp-4x4-IDi2D6g.html",\N,"INMATRICULAT","None","None","GRI","NONE","2024-03-23","2024-03-27 21:17:06","2024-04-15",\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N
+"00013dec-ed61-5e05-862d-9f5da1b310cf","DACIA","LODGY","None","2014","115","119","missing",\N,"M","Monovolum","None","5",\N,"130000","4300.00","EUR","None","Persoana fizica","None","None","NONE","None","NONE","ROMANIA","None","None","None","DESCRIERE
+Dacia Lodgy - an 2014, 1.2 Tce (Benzina), 1198 cmc, 115 CP, 130.000KM, Transmisie: Manuala,(5+1 trepte), Culoare: Gri.
+
+Dotari: Clima, Navigatie, Geamuri electrice, Oglinzi electrice, Oglinzi incalzite, Oglinzi heliomate, Inchidere centralizata din telecomanda, Jante aluminiu, Proiectoare ceata, ABS, Servodirectie, ESP, Airbaguri, Volan reglabil, CD player, Computer de bord,
+
+Recent adus in tara, Nu s-au scos numere rosii, Arata si functioneaza foarte bine, KM reali,
+
+Mai multe informatii la telefon
+
+Pret: 4.300 Euro neg
+Telefon: 07********38 , Arad","None","https://www.olx.ro/d/oferta/dacia-lodgy-an-2014-1-2-tce-benzina-IDi1ztQ.html",\N,"NEINMATRICULAT","None","None","GRI","NONE","2024-02-17","2024-03-05 00:28:18",\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N
+"00015d49-1e95-510c-9c3b-a5a2b50c2cf0","PEUGEOT","208","1.6 BlueHDi FAP Access","2019","75","1560","D",\N,"M","None",\N,"5",\N,"175000","7950.00","EUR","Negociabil, Se emite factura","Firma","None",\N,"EURO 6",\N,"SECOND HAND","ROMANIA","SPLAIUL UNIRII 865H - 030352 Bucuresti, Sectorul 3 (Romania)","","","PEUGEOT 208 | an fabricatie 2019 | 1.5 - 75 CP | DIESEL | EURO 6
+PRET: 7.950 EURO cu TVA inclus si deductibil. Pret cu toate taxele incluse usor negociabil.
+
+OFERIM :
+ Asistenta pentru Inmatriculare (masina nu necesita RAR)!
+ Masinile sunt verificate inainte de a fi puse la vanzare
+ Garantie 12 luni ( cutie si motor )
+ Unic proprietar ( Cumparata de noua din Romania
+ Cumparatori care vad masina pe olx o pot vedea pe autovit cu peste 20 de poze!!
+ Pentru mai multe poze va rog intrati pe pagina noastra de Website www.euroleasing.ro!!!
+ Adresa parcului nostru este : Splaiul Unirii 865H
+ Sau daca folositi Waze sau GoogleMaps cautati : EUROLEASING
+
+TELEFOANE UTILE:
+Vanzari: 072 - arata numarul -
+Leasing si Credite: 076 - arata numarul -
+PROGRAM DE LUCRU:
+Luni- Vineri: 09:00 - 18:00
+Sambata: 09:00 - 15:00
+
+POSIBILITATE FINANTARE ONLINE CU RATE FIXE:
+
+ RATE FIXE pe toata perioada contractuala
+ Aprobare rapida in maxim 30 de minute la sediul nostru
+ Se acorda credite pentru: Persoane Fizice (salariati, indemnizatie pentru cresterea copilului,Diurne,M.A.I,M.A.P.N, Pensionari ), Persoane Juridice, Inteprinderi Individuale, PFA, indiferent de nivelul de venit, de istoricul de creditare* sau data infiintarii PJ/PFA.
+ Se pot finanta si persoanele care au probleme in biroul de credit,indiferent daca au venit sau nu!!!
+ Finantare intre 6 luni - 60 de luni, posibilitate de inchidere anticipata a creditului fara costuri suplimentare.
+ Acceptam contracte din afara tarii pe baza contractului de munca si extraselor de cont pentru incasare salariu sau venituri din pensie.
+
+PERSOANE FIZICE:
+
+AVANS ~~ 0% ~~~ prin TBI PAY, CETELEM, B.T -DIRECT - DOAR CU BULETINUL - timp de aprobare 30 minute
+RATA FIXA de la 160 Euro cu Avans 0
+
+ Pentru cei cu probleme in biroul de credite, AVANS minim de 0 % prin Claret, Mogo
+ Pentru care nu au niciun fel de venit ,AVANS minim de 25% prin Zenith Leasing
+
+PERSOANE JURIDICE (SOCIETATI) : putem finanta una sau mai multe autoturisme prin:
+ - IdeaLeasing/Bank,
+ - BT Leasing/Bank,
+ - Unicredit Leasing,
+ - Tiriac Leasing
+ - Claret Leasing,
+ - Zenith Leasing,
+ - Impuls Leasing.
+
+RATA de 100 Euro X 60 luni cu Avans de 1700 Euro
+
+DETALII AUTOTURISM:
+
+~ Aer conditionat, perfect functional
+~ Inchidere centralizata pe cheie ; 2 chei
+~ Computer bord cu multimple functii; ( afisare distanta parcursa , consum mediu , etc )
+~ Radio Cd cu functie bluetooth , karkit incorporat ( maini libere ) pentru telefon
+~ Airbag frontale cat si laterale;
+~ Cutie de viteze manuala 5+1;
+~ Abs, ESP;
+~ Volan piele reglabil
+~ Geamuri electrice fata;
+~ Oglinzi reglare manual
+~ Computer bord cu afisarea consumului , distantei etc.
+~ Consum combustibil redus","None","https://www.autovit.ro/anunt/peugeot-208-1-6-bluehdi-fap-access-ID7HbtZe.html",\N,"DA","None",\N,"ALB","NONE",\N,"2023-05-12 06:01:54",\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N
+"000171a8-c079-51f9-be21-1db71f9cbd3f","VOLKSWAGEN","PASSAT","None","2013","140","198","D",\N,"A","Break","None","5",\N,"245404","7200.00","RON","None","Persoana fizica","None","None","NONE","None","NONE","ROMANIA","None","None","None","DESCRIERE
+DESCRIERE
+Computer de bord
+Transmisie DSG cu dublu ambreiaj
+Climatronic climatizare automata pe 2 zone
+Volan multifunctional
+Servodirectie
+Sistem de franare anti-blocare
+Tractiune fata
+ABS
+ASR
+ESP
+Imobilizator electric
+Frana de mana electrica
+Cruise control /Tempomat
+Auto Hold
+Asistenta la pornire in rampa
+Sistem de inchidere centralizata
+Modul de navigatie RNS 315 pentru sistemul audio RCD 310
+Sistem audio RCD 310 cu functie de redare MP3
+Radio/CD player Aux In/SD Card
+Senzori parcare (fata, spate) Sunet/Afisaj
+Geamuri electrice (fata, spate)
+Geam termoizolant colorat in verde spate
+Scaune incalzite fata
+Oglinzi exterioare reglabile electric si incalzire
+Oglinzi exterioare cu estompare automata
+Oglinda interioara cu estompare automata
+Sine de acoperis
+Jante din aliaj vara / jante tabla iarna 16
+Roata de rezerva dimensiuni normale 16
+Isofix (atasament pentru scaun pentru copii)
+Senzor de lumina
+Follow me Home / Leaving Home
+Lumini Ambientale / Pachet Chrome
+Faruri de ceata
+Senzor de ploaie
+Pornire/oprire automata
+Lumini de zi
+Carlig remorcare
+8 Airbag-uri / Cortina
+Isofix","None","https://www.olx.ro/d/oferta/volkswagen-passat-2-0tdi-blue-motion-comfortline-IDi645b.html",\N,"INMATRICULAT","None","None","NEGRU","NONE","2024-03-18","2024-03-23 01:38:14","2024-04-15",\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N
+"00017614-7208-4fd3-8a5e-618c7cd0d627",\N,\N,"xDrive30d",\N,"258",\N,"D",\N,"A",\N,\N,"5",\N,"182000","28000.00","EUR","Negociabil","Proprietar",\N,\N,"Euro 6",\N,\N,"Germania","Cluj-Napoca, Judet Cluj","Cluj","","
+        VIN: WBAKS410400H55368
+Type	X5 xDrive30d
+Colour	black-sapphire metallic
+Upholstery	Leather Dakota/canberra-beige
+
+Comfort And Interior Equipment
+S402	Panorama Glass Roof
+S413	Luggage Compartment Net
+S417	Roller Sun Visor, Rear Door
+S423	Floor Mats Velours
+S428	Warning Triangle And First Aid Kit
+S430	Interior/Outside Mirror With Auto Dip
+S488	Lumbar Support, Driver And Passenger
+S493	Storage Compartment Package
+S494	Seat Heating Driver/Passenger
+S4CV	Fine Wood Trim Oak
+
+Multimedia
+S609	Navigation System Professional
+S610	Head-Up Display
+S688	Harman/Kardon Surround Sound System
+S698	Area-Code 2 For DVD
+S6AC	Intelligent Emergency Call
+S6AE	Teleservices
+S6AK	Connected Drive Services
+S6AM	Real-Time Traffic Information
+S6AN	Concierge Services
+S6AP	Remote Services
+S6NS	Comfort Telephony W/ Enhanced Smartphone
+
+Driver Assistance And Lightning
+S502	Headlight Cleaning System
+S508	Park Distance Control (PDC)
+S522	Xenon Light
+S534	Automatic Air Conditioning
+S548	Kilometre Speedo
+S563	Light Package
+S575	Additional 12V Sockets
+S5A1	LED Fog Lights
+S5AS	Driving Assistant
+S5DA	Passenger Airbag Deactivation
+
+Wheels And Drive
+S230	Extra Package, EU-Speciifc
+S233	Increased Towing Capability
+S255	Sports Leather Steering Wheel
+S2AZ	BMW LA Wheel, Double Spoke 446
+S2VB	Tyre Pressure Display
+
+Environment And Safety
+S320	Deleted, Model Lettering
+S346	Chrome Line Exterieur
+S3AA	Roof Railing Black
+S3AC	Trailer Coupling
+S801	National Version Germany
+S851	Language Version German
+S879	On-Board Literature, German
+S8KA	Oil Service Interval 24 Mths / 30,000 Km
+S8TF	Active Pedestrian Protection
+S8V1	Information Plate
+
+Other Equipment
+S1CA	Selection Of COP-Relevant Vehicles
+S1CB	CO2 Equipment
+S925	Dummy-SALAPA
+S9AA	Outer Skin Protection
+SA105	105 Ah AGM Battery
+SLEDE	Leather Equipment
+
+Pret : 28.000 euro + TVA
+
+Se emite factura.    ","Da",\N,\N,"Da",\N,\N,"Negru",\N,\N,"2023-11-28 04:00:42","2023-03-22","https://www.autovit.ro/anunt/bmw-x5-xdrive30d-ID7H9HsP.html","Autoturisme","2993","2023-03-22",\N,"Automata","F15 [2013 - 2018]","https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InVzM2J2bm5semd6bDMtQVVUT1ZJVFJPIiwidyI6W3siZm4iOiJxN216NTNiaWZwemstQVVUT1ZJVFJPIiwicyI6IjE2IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.UplcqtBETO30cU7P-B5TDp-LLSsykDMM86MDOxZPrc8/image;s=732x488",\N,"BMW","2014","X5","BMW X5 xDrive30d",\N,"2014-09-15","7050624303","AUTOVIT","Second hand",\N
+"00018226-97c7-5f59-a15b-02b2d09ec9b5","MERCEDES","SLK-CLASS","None","2011","184",\N,"U",\N,"missing","None",\N,\N,\N,"148451","12711.00","NONE","None","None","WDD1724481F002787",\N,"NONE",\N,"NONE","NONE","None","None","None","None","None","None",\N,"NONE",\N,\N,"NONE","NONE","2018-12-04","2021-10-11 14:25:10",\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N
+"00018303-c1de-5549-a0ff-6f86d0d10897","JEEP","COMMANDER","None","2009",\N,"3000","D",\N,"A","Off-road",\N,\N,\N,"205000","3500.00","EUR","","Proprietar","",\N,"",\N,"UTILIZAT","","Iasi, judet Iasi","Iasi","","VAnd jeep commander doar pt offroad. Nu se poate Anmatricula. Doar pt a fi modificat. 09.2009 stare perfecta de functionare","","https://www.olx.ro/oferta/jeep-commander-3000d-doar-pt-offroad-IDeOhNi.html#d3458bb3e4","2009-05-31","",\N,\N,"NEGRU","","2021-04-14","2021-10-19 17:23:48",\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N
+"00018a30-499a-440d-9e37-5c81cc2f6326",\N,\N,"2.0 TSI 4X4 DSG SportLine",\N,"190",\N,"U",\N,"A",\N,\N,"5",\N,"60000","37723.00","EUR","TVA deductibil, Negociabil, Se emite factura","Firma",\N,\N,"Euro 6",\N,\N,"Germania","WORLD TRADE CENTER, P-TA MONTREAL NR 10, INTRAREA - 011469 Bucuresti, Sectorul 1 (Romania)","Bucuresti","","
+        Pret fara TVA : 31.700 Euro
+
+Posibilitate achizitie la PRET NET(inclusiv finantare leasing), pentru persoane juridice
+Autoturism disponibil in stoc extern. Termen de livrare 5 zile.
+PRETUL INCLUDE TOATE CHELTUIELILE DE IMPORT incl TRANSPORT
+ 
+Andrei Burlacu
+Tel:  072 - arata numarul - 
+Managing Partner
+
+PLUS AUTOTRADE activează în domeniul auto din anul 2010, fiind in momentul de fata lider pe piața de comenzi automobile noi și rulate – import Germania.
+Servicii oferite :
+- Posibilitatea achiziției la prețul net fară TVA, exclusiv pentru companii plătitoare de TVA.
+- Posibilitatea de leasing fara TVA, creditare externa prin BCR Leasing.
+- Pretul poate include cheltuielile de transport si comisionul dealerului.
+- Consultanță de specialitate în selectarea modelului ideal, beneficiind de 15 ani de experiență în domeniu!
+- Prețuri preferențiale negociate exclusiv cu partenerii noștri internaționali.
+- Preaprobarea financiară a dosarului de leasing pe loc!
+- Garanție inclusă 12 luni! Posibilitate de extindere a garanției acordate de producător până la 5 ani sau 200.000 km.
+- Oferte avantajoase de BUY-BACK pentru autoturismul dumneavoastră.
+În plus, la sediul nostru puteți încheia asigurări RCA si CASCO și puteți opta pentru serviciile de înmatriculare provizorie și definitivă!
+
+Posibilitate de finanțare în sistem leasing sau credit cu dobândă incepând de la 3.5%, avans incepând de la 20%, pe o perioadă de la 12 până la 60 de luni, prin partenerii noștri:
+- Unicredit leasing
+- Idea Leasing
+- Tiriac Leasing
+- OTP Leasing
+- BT Leasing
+- RCI Leasing
+- Impuls Leasing    ",\N,\N,\N,\N,\N,\N,"Gri",\N,\N,"2023-11-28 06:45:56","2023-05-23","https://www.autovit.ro/anunt/skoda-kodiaq-2-0-tsi-4x4-dsg-sportline-ID7Hc7CW.html","Autoturisme","1984","2023-05-23",\N,"Automata",\N,"https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImU0YWVvcXM2eGsxNTItQVVUT1ZJVFJPIiwidyI6W3siZm4iOiJxN216NTNiaWZwemstQVVUT1ZJVFJPIiwicyI6IjE2IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.6NDXEz2m1vsDVNKzmldoA_pzNEti-5d_53EkDcw5VwA/image;s=732x488",\N,"SKODA","2020","KODIAQ","Skoda Kodiaq 2.0 TSI 4X4 DSG SportLine","011469","2020-04-14","7051201529","AUTOVIT","Second hand",\N
+"0001ae85-f84a-5cd9-acf1-3d13ab2043d8","MITSUBISHI","OUTLANDER","None","2016","150","226","D",\N,"M","SUV","None","5",\N,"287000","9500.00","RON","None","Persoana fizica","JMBXJGF6WGZ400865","None","NONE","None","NONE","ROMANIA","None","None","None","DESCRIERE
+Vand Mitsubishi Outlander, suv 44, euro 6, model 2016, motor 2268 diesel , stare perfecta de functionare, consum ok, 6% extra urban si 8% urban in medie. Ca mentiuni va pot spune ca 44 este decuplabil cu moduri de condus simplu, eco, 44 permanent sau la nevoie. De asemenea mentionez ca are dpf activ si functional, ca de altfel tot ce este pe masina ca optiuni si elemente de siguranta. Este foarte bine intretinuta beneficiind de revizie capitala cu schimbarea pieselor necesare, de asemenea are revizie ulei si filtre plus ITP, efectuate recent. Toate acestea pot fi verificate intr-un service ales de cumparator. Se elibereaza fiscal . Pentru oferte si intrebari sunati-ma sau dati mesaj.
+La cerere va pot oferi si alte poze.
+
+Dotari:
+Geamuri electrice fata-spate
+Start-stop
+Lumini automate
+Lumini de zi
+Senzori ploaie si lumina
+Clima automata
+Navigatie pliabila cu doua carduri
+Comenzi pe volan
+Cotiera de fabrica cu depozitare
+44 cu buton cuplare
+Asistenta rampa (in panta)
+Bancheta refractabila doua moduri cu suport pahare
+Oglinzi electrice si incalzite
+Oglinzi retractabile automat
+Linie audio profesionala
+Doua seturi de roti
+Doua chei....si alte functii.","None","https://www.olx.ro/d/oferta/outlander-44-euro-6-de-vanzare-IDhZ0ik.html",\N,"INMATRICULAT","None","None","ALB","NONE","2024-04-03","2024-04-26 02:46:53","2024-05-04",\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N
+"0001b782-fab2-5f6e-8338-a5f7b15f64e2","TOYOTA","YARIS","1.5 VVT-i HSD Dynamic","2023","92","149","HIBRID",\N,"A","Masina de oras","None","5","5","7500","19000.00","EUR","None","Privat","None","None","NONE","None","NONE","ROMANIA","Targu-Mures","Mures","None","Vand Toyota Yaris 1,5 Hybrid 
+Anul fabricatiei: 21.01.2023 
+Km:7500
+Oglinzi exterioare incalzite si reglabile electric 
+Pornire cu buton.
+Faruri cu Led
+Lumini de zi cu tehnologie LED 
+Camera de parcare
+Jante aliaj
+Proiectoare ceata
+Stergatoare parbriz cu senzor de ploaie 
+Geamuri electrice fata
+Covorase textile originale Toyota 
+Ecran multimedia Toyota
+Bluetooth
+Comenzi audio pe volan
+Integrare Smartphone 
+Comutator Multi Info pe volan 
+Priza 12 V in fata
+Aer conditionat manual 
+6 Difuzoare 
+Diagonala ecran multimedia Toyota 8.00
+Volan imbracat in piele
+Schimbator automat imbracat in piele si cu insertii de crom
+Scaune sofer si pasager incalzite
+Sistem asistenta la franare (BA) 
+Directie asistata electric (EPS)
+Sistem ISOFIX
+Semnalizare a franarii de urgenta (EBS)
+Safety Sense
+Sistem de siguranta Pre-Impact (PCS) 
+Sistem de comutare automata intre faza lunga si faza scurta (AHB)
+Sistem de avertizare coliziune cu evitare pietoni
+Sistem de avertizare la parasirea benzii de rulare (LDA)
+Sistem de asistenta pentru semne rutiere (RSA)
+Sistem asistenta pornire in rampa (HAC)
+Limitator de viteza (ASL) 
+Inchidere centralizata
+Camera video pentru parcare cu spatele","None","https://www.autovit.ro/autoturisme/anunt/toyota-yaris-1-5-vvt-i-hsd-dynamic-ID7HiUHn.html",\N,"NONE","None","None","ALBASTRU","NONE","2023-12-28","2024-01-10 15:39:18",\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N
+"0001ba18-884e-5ca4-b38a-14e9a60bd4a4","FORD","ECOSPORT","None","2015","95",\N,"D",\N,"missing","None",\N,\N,\N,"80000","13361.30","NONE","None","None","",\N,"NONE",\N,"NONE","NONE","None","None","None","None","None","None",\N,"NONE",\N,\N,"NONE","NONE","2018-03-29","2021-10-11 14:25:10",\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N
+"0001bc86-a595-5432-b50a-fc74851ec8ed","AUDI","A5","None","2009","190","269","D",\N,"A","Coupe","None","3",\N,"256000","7700.00","RON","None","Persoana fizica","None","None","NONE","None","NONE","ROMANIA","None","None","None","DESCRIERE
+Audi A5 2.7 TDI 190cp
+Cutie Automata
+Filtru de particule activ
+Faruri Led + Xenon
+Jante 20 Segment Gri Antracit Originale
+Pachet S Line interior + Exterior
+Scaune piele incalzita si electrice
+Sistem audio B&O
+Proprietate personala din ianuarie 2020
+Stare generala buna, ruleaza foarte bine fara pierderi antigel sau ulei
+Urme normale pe caroserie ptr vechime","None","https://www.olx.ro/d/oferta/audi-a5-s-line-competition-IDib6Bd.html",\N,"INMATRICULAT","None","None","ALBASTRU","NONE","2024-05-14","2024-05-22 18:18:33","2024-06-12",\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N
+"0001e137-dd5a-5266-b8ed-612ac616fad3","SKODA","OCTAVIA","None","2016","150","196","D",\N,"M","Break","None","5",\N,"328000","7300.00","RON","None","Persoana fizica","None","None","NONE","None","NONE","ROMANIA","None","None","None","DESCRIERE
+Skoda Octavia luna 10.2016
+Motor 20 l diesel 150 cp Climatronic pilot automat cutie manuala 6 trepte sau schimbat discuri/placute/distributie
+ITP valabil decembrie 2026","None","https://www.olx.ro/d/oferta/skoda-octavia-break-IDiaZMT.html",\N,"INMATRICULAT","None","None","ALBASTRU","NONE","2024-05-23","2024-06-01 06:37:21","2024-06-12",\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N
+"0001fcce-cbab-5da6-b975-28ce81ce6ac1","AUDI","Q2","None","2017","150",\N,"U",\N,"missing","None",\N,\N,\N,"5326","19495.80","NONE","None","None","WAUZZZGA0JA014425",\N,"NONE",\N,"NONE","NONE","None","None","None","None","None","None",\N,"NONE",\N,\N,"NONE","NONE","2019-01-02","2021-10-11 14:25:10",\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N
+"000210b0-442c-5158-9b21-a6aed15eded8","MERCEDES","E-CLASS","None","2019","150","200","D",\N,"A","Berlina","None","4",\N,"123500","28500.00","RON","None","Persoana fizica","WDD2130131A695197","None","NONE","None","NONE","ROMANIA","None","None","None","DESCRIERE
+* Autoturismul se prezinta in stare impecabila de functionare, fara probleme de ordin tehnic sau estetic. Masina ingrijita, cu toate schimburile facute la timp.
+Din punct de vedere estetic, masina arata impecabil, atat interior cat si exterior, asta inseamna ca nu are zgaraieturi, lovituri sau ciobituri. Motorizare de 2.0 litri,
+ce dezvolta 150 de cai si un consum mediu de 5.8 l/100km pentru ultimii 7400 de km.
+
+~ PRET - 28 500 EURO
+
+# MERCEDES-BENZ E-Klasse (E200d)
+# An fabricatie 25.06.2019
+# Motorizare 2.0 Diesel 150CP
+# Cutie automata 9G-TRONIC
+# Norma de poluare Euro 6
+# Inmatriculat RO
+# 123.500 km
+# Culoare argintie
+
+Gama de dotari:
+
+ Intelligent Safety
+ ILS Lights
+ Lane Assist
+ Side Assist
+ Indicator recunoastere semne de circulatie
+ Lumini ambientale 65k Policolors
+ Internet WIFI
+ Asistenta faza scurta / lunga
+ Linie audio
+ Suspensie adaptiva
+ Dublu-Climatronic
+ Incalzire in scaune
+ Scaune reglabile full electric + lombar
+ ABS+
+ ESP + Sistem monitorizare presiune pneuri
+ Volan reglabil electric multifunctional
+ Airbag-uri fata (sofer + pasager), laterale fata si cortina
+ Sistem Navigatie Professional 4k
+ Senzori de parcare fata/spate
+ Aprindere automata faruri de intalnire
+ Park Assist (parcheaza singura)
+ Camere 360
+ Keyless GO / Entry
+ Auto Hold
+ Senzori ploaie
+ Senzori lumini
+ Privacy Glass
+ Pilot automat
+ Follow me home
+ Computer de bord multifunctional
+ Jante aliaj originale Mercedes A2134011400 Bicolore (Gri+Diamond Cut), anvelope Pirelli vara in stare foarte buna.","None","https://www.olx.ro/d/oferta/mercedes-benz-e-200-d-2019-IDikfbR.html",\N,"INMATRICULAT","None","None","ARGINTIU","NONE","2024-05-27","2024-05-31 11:14:45","2024-06-12",\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N
+"00021679-c8ec-5a3b-8ec8-6566df9407f0","KIA","NIRO","None","2017","105","158","HIBRID",\N,"A","SUV","None","4",\N,"70000","16900.00","RON","None","Persoana fizica","None","None","NONE","None","NONE","ROMANIA","None","None","None","DESCRIERE
+Kia Niro hybrid, 2017
+Inmatriculata, unic proprietar
+Culoare alb perlat
+Revizia facuta la reprezentanta
+Consum mediu 4l/100km","None","https://www.olx.ro/d/oferta/kia-niro-hybrid-2017-70000km-reali-inmatriculata-IDgzg3S.html",\N,"INMATRICULAT","None","None","ALB","NONE","2024-05-12","2024-05-16 15:53:11","2024-06-12",\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N
+"00021994-dc89-54ba-9c77-79d7fa7f4baf","BMW","SERIES 3","None","2010","177","1995","D",\N,"A","None",\N,"5",\N,"245100","5400.00","EUR","Negociabil","Proprietar","None",\N,"EURO 5",\N,"SECOND HAND","NONE","Timisoara, Judet Timis","","","BMW e90 320d xDrive Automat 2010 Facelift
+Persoana privata
+Raport CarVertical la cerere.
+
+VIN: WBAPP31070A981736
+Data fabricatiei: 14.10.2010 
+motor 2.0D 184cp/135Kw
+Euro 5
+Cutie automata
+Computer de bord
+Lumini automate
+Faruri Xenon5
+4x Geamuri electrice
+Radio BMW Professional
+Incalzire scaune fata
+Senzori parcare spate
+Dublu Climatronic
+ABS, ESP, SERVO
+Airbag-uri fata si spate
+Proiectoare Ceata
+Lumini la manerele usilor
+Tempomat Cruise Control
+Oglinzi electrice incalzite
+Senzori de lumina/ploaie
+Volan piele cu comenzi
+Sistem Isofix
+2 chei cu telecomanda
+Jante r16 anvelope run-flat Michelin
+4 roti de iarna R16 anvelope run-flat Continental
+Carte service
+Schimburi ulei+filtre efectuate recent
+ITP valabil pana in 17.02.2024","Da","https://www.autovit.ro/anunt/bmw-seria-3-ID7HcPZf.html",\N,"DA","None",\N,"NEGRU","NONE",\N,"2023-06-18 18:02:08",\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N
+"000229c7-3285-545d-bb22-4c501b93e36b","MAZDA","CX-7","None","2008",\N,"2300","U",\N,"M","SUV",\N,\N,\N,"109000","6300.00","EUR","","Proprietar","",\N,"",\N,"","","Constanta, judet Constanta","Constanta","","Vand Mazda CX7, an fabricatie 2008, 2300 cmc, 260 cp, culoare neagrA, model Revolution, vArful de gama, unic proprietar, cumpArata de nouA din reprezentanta.
+Masina se afla intr-o stare buna ETMi are doar 109000 km.","","https://www.olx.ro/oferta/vand-mazda-cx7-unic-proprietar-109000-km-IDe78o8.html#e0da8025ad","2008-05-31","",\N,\N,"NEGRU","","2021-10-28","2021-10-28 11:43:03",\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N
+"00022b9e-b1a2-5fef-86ec-6be8b60d0f7d","KAWASAKI","VN","None","2007","104","20533","U",\N,"missing","None",\N,"None",\N,"66000","7000.00","EUR","Negociabil","Proprietar","None",\N,"NONE",\N,"SECOND HAND","CANADA","Brasov, Judet Brasov","","","Kawasaki Vulcan VN2000LT Classic Silverado
+Injectie, racire pe lichid, 5 viteze
+Capcitate = 2053 cc
+Putere=104 CP / 76kW @ 4800 rpm
+Cuplu=177 Nm @ 3200 rpm
+Frane fata = dublu disc (300)  4 pistoane
+Frane spate = mono disc (320) cu 2 pistoane
+Greutate = 360 Kg
+Capacitate rezervor = 21 L
+Este pregatita de sezon, sunt schimbate: ulei, filtru ulei, filtru aer, placute frane, lichid frana, 
+Furca servisata noiembrie 2022. 
+Baterie aproape noua (schimbata acum 6 luni).
+Cauciucurile schimbate anul trecut.
+Pe alocuri vopseaua sarita.
+Motorul merge perfect.
+Are parbriz si tobe custom. (sunt montate cele stock) - mai silentioase
+ITP valabil pana in 26.07.2023
+KM: 66000, in crestere
+Este o bestie blanda, foare manevrabila, care la nevoie rupe asfaltul. Cel mai bine se simte la drumuri lungi.
+Pretul este usor negociabil. Se accepta si schimburi + diferenta","None","https://www.autovit.ro/anunt/kawasaki-vn-ID7HbmbH.html",\N,"DA",\N,\N,"ROSU","NONE","2023-07-07","2023-07-09 06:02:28",\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N
+"00023709-8ff2-52d7-a981-0e4ec243a766","DACIA","DUSTER","None","2011","110","146","D",\N,"M","SUV","None","5",\N,"207000","5499.00","EUR","None","Persoana fizica","None","None","NONE","None","NONE","ROMANIA","None","None","None","DESCRIERE
+- 4x4 Transmisie integrala decuplabila
+- motor 1.5 dCi 110 (81kW/110CP)
+- Euro 5
+- cutie 6 trepte
+- ABS, ESP, 4 airbag-uri
+- AC - Aer conditionat manual
+- Geamuri fata electrice
+- Inchidere centralizata cu telecomanda
+- Carlig de remorcare
+- prima inmatriculare 12/2011
+- echipata cu anvelope pentru noroi
+
+Import Germania, nu s-au scos numere rosii!","None","https://www.olx.ro/d/oferta/dacia-duster-4x4-1-5-dci-2011-207-000km-IDhWehG.html",\N,"NEINMATRICULAT","None","None","ARGINTIU","NONE","2024-03-17","2024-03-28 09:07:03","2024-04-15",\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N
+"00027023-d686-52f0-a4ee-ffcd4d728b16","VOLKSWAGEN","PASSAT CC","None","2009","160","180","U",\N,"missing","Berlina","None","None",\N,"190000","5250.00","EUR","None","ionut","None","None","NONE","None","NEAVARIATA","ROMANIA","Targu Jiu","Gorj","None","Vand vw Passat cc recent adus ,1.8tsi 08 2009,se pot scoate numere rosii ,stare perfecta de functionare ,nu bate absolut nimic
+*dublu clima
+**incalzire in scaune
+*piele alcantara impecabila
+*jante r17cu anv noi 2022
+*geamuri fumurii
+*carlig remorca detasabil
+*maxi dot
+*navigatie
+* cornering light
+*distributie pe lant
+**plus multe alte dotarii
+Pret 5250e usor neg
+Mai multe detalii in privat Publi24_1710696213","None","https://www.publi24.ro/anunturi/auto-moto/masini-second-hand/vw/passat-cc/anunt/vw-passat-cc/833e117471eh796gd17edei539d18518.html",\N,"INMATRICULABILA","None","None","missing","NONE","2024-03-30","2024-04-04 00:57:07","2024-04-15",\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N
+"00027b3c-1b32-5d58-812d-554da88b68d5","MERCEDES","S-CLASS","580 e 4MATIC Long","2022","367","2999","HIBRID",\N,"A","None",\N,"4",\N,"13928","154700.00","EUR","TVA deductibil, Se emite factura","Firma","None",\N,"EURO 6",\N,"SECOND HAND","NONE","Calea Sagului Mercedes, 142 - 300517 Timisoara, Judet Timis (Romania)","","","Vehicul in dotarea de baza de la producator
+Vopsire:	346	Vopsea metalizata negru Onyx
+Tapiterie:	505	Piele Nappa Exclusive bej Macchiato / gri Magma
+
+Dotare optionala
+01U	Preinstalare pentru servicii navigatie
+13U	Preinstallation for Remote and Navigation Services
+14U	Pachet integrare smartphone
+16U	Apple CarPlay
+17U	Android Auto
+201	Punte spate directoare cu unghi de pana la 4.5
+21U	Camera frontala pentru monitorizare trafic
+22U	MBUX Entertainment
+243	Asistent activ pentru mentinerea benzii de rulare
+266	Asistent activ la virare
+276	Pachet memorie pentru locurile din spate
+282	Functie de incarcare obiecte lungi
+292	PRE-SAFE Impuls lateral
+293	Airbag-uri laterale pentru locurile din spate
+2B7	Omitere acces HANDS-FREE in cadrul pachetului depozitare
+325	Airbag central
+32U	Personalizare a sunetului
+33B	Manual utilizare si evidenta service in limba romana
+351	Sistem de apel de urgenta Mercedes-Benz
+355	Servicii MBUX extinse
+365	Navigatie pe HDD
+367	Preinstalare pentru Live Traffic Information
+421	9G-TRONIC
+475	Sistem de monitorizare a presiunii in roti
+489	AIRMATIC
+513	Asistent pentru semnele de circulatie
+534	Sistem multimedia MBUX
+537	Radio digital
+543	Parasolare duble
+546	Asistent activ pentru limitarile de viteza
+581	Sistem de climatizare automat THERMOTRONIC
+587	Lumina ambientala cu proiectie logo
+596	Geamuri din sticla securizata laminata antifurt cu izolare termica si fonica URBAN GUARD
+597	Parbriz incalzit
+628	Asistent adaptiv pentru faza lunga Plus
+63B	Soclu de incarcare
+65U	Plafon imbracat in microfibra DINAMICA bej
+682	Extinctor
+797	Consola centrala cu aspect cristal negru/gri
+79B	Preinstalare pentru radio digital
+810	Sistem audio Burmester 3D
+83B	Incarcator on-board DC cu o putere de pana la 60 kW
+878	Lumina ambientala activa
+881	Portbagaj cu inchidere prin telecomanda
+883	Inchidere asistata electric a portierelor
+887	Incuietoare independenta pentru portbagaj
+891	Lumina ambientala
+897	Incarcare wireless pentru dispozitive mobile pentru locurile din fata
+8U0	Spalare parbriz cu lichid incalzit
+902	Incalzire scaune Plus pentru locurile fata
+903	Incalzire scaune Plus pentru locurile din spate
+942	Pachet depozitare
+968	Document COC EU6 fara certificat de inregistrare partea a 2-a
+989	Seria de sasiu vizibila sub parbriz
+999	Filtru particule benzina
+B30	Cablu de incarcare pentru priza domestica, 5 metri, drept
+B53	Indicator acustic de prezenta
+D62	Cod control
+GHC	Transmisie hibrid cu putere variabila 100kW - 110kW
+H38	Ornamente designo din lemn de nuc poros si linii de aluminiu
+K32	Asistent activ la schimbarea benzii
+K33	Functie de repornire automata in blocajele de trafic
+K34	Adaptarea vitezei in functie de ruta
+P20	Pachet asistenta la conducere
+	233	Pilot mentinere distanta DISTRONIC
+P34	Pachet Exclusive
+	735	Pachet ornamente Exclusive
+P47	Pachet parcare cu camera 360
+	235	Asistent activ la parcare cu PARKTRONIC
+	501	Camera 360
+P55	Pachet Night
+PBG	MBUX Navigation Premium
+PBS	Pachet ENERGIZING pentru pasagerii din fata
+	401	Scaune fata climatizate
+	432	Pachet scaune multicontur active
+	P21	Pachet AIR-BALANCE
+	P69	Pachet incalzire confort
+ 443	Volan incalzit
+ 906	Cotiera incalzita pentru locurile din fata
+ 907	Cotiera centrala incalzita pentru locurile din fata si din spate
+PYB	Pachet Base
+	20U	Preinstalare pentru transfer cheie digitala
+	34U	Servicii remote Premium
+	384	Modul de internet LTE
+	72B	Pachet USB Plus
+	82B	Sistem de incarcare curent alternativ (CA), 11kW
+	868	Display central OLED
+	874	MAGIC VISION CONTROL
+	889	Sistem KEYLESS-GO cu manere retractabile
+	9B2	Cablu de incarcare pentru Wallbox si statie de incarcare publica, 11kW, 5 metri, drept
+	B51	Kit interventie pana TIREFIT
+	P53	ENERGIZING AIR CONTROL
+	P82	URBAN GUARD Plus
+ 551	Sistem antifurt cu preinstalare a detectarii coliziunilor
+ 882	Sistem interior de monitorizare
+	U25	Ornament praguri fata / spate inscriptionate ""Mercedes-Benz""
+PYH	Linie AMG
+	840	Geamuri laterale spate si luneta cu tenta inchisa
+	950	Linie AMG
+ 772	Pachet AMG Styling
+ L5C	Volan sport multifunctional imbracat in piele Nappa
+	U29	Sistem de franare cu discuri de frana marite
+PYO	Pachet Premium Plus cu HuD cu realitate augmentata
+	223	Scaune spate cu reglaj electric si functie de memorie
+	318	DIGITAL LIGHT with projection function
+	402	Scaune spate climatizate
+	413	Trapa panoramica
+	445	Head-up Display cu realitate augmentata
+	451	Display 3D sofer
+	77B	Asistent interior MBUX
+PYP	Pachet Executive pentru locurile din spate
+	236	Compartiment spate cu lumina adaptiva
+	306	Centuri de siguranta cu airbag incorporat
+	447	Tableta MBUX pentru locurile din spate
+	561	Catarama design centura de siguranta fata / sapte
+	582	Sistem de climatizare THERMOTRONIC pentru spate
+	78B	MBUX pentru locurile din spate
+	898	Incarcare wireless pentru dispozitive mobile pentru locurile din spate
+	P07	Pachet Chauffeur
+ 439	Tetiere de lux EASY ADJUST pentru locurile din fata, rabatabila pentru pasager
+ 452	Scaun fata pasager ajustabil electric de pe locurile din spate
+ 562	Impuls PRE-SAFE
+ P64	Pachet memorie
+ 249	Oglinzile interioara si exterioara stanga, heliomate
+ 275	Scaun sofer ajustabil electric cu functie de memorare
+ 321	Scanner al amprentei
+	P09	Pachet protectie solara
+ 297	Perdelute electrice pentru locurile din spate
+ 540	Jaluzea actionata electric pentru luneta
+	U07	Sistem electric pentru centura spate
+R01	Anvelope vara
+R06	Anvelope cu spuma pentru absorbtia zgomotului
+RVP	Jante AMG din aliaj 50.8 cm (20""), vopsite negru, design multispite
+U01	Indicator stare centuri de siguranta spate
+U10	Dezactivare automata a airbag-ului pasagerului
+U19	Realitate augmentata MBUX pentru navigatie
+U26	Covorase cu inscriptie AMG
+U35	Priza in portbagaj
+U60	Capota activa pentru protectia pietonilor
+U67	Priza 230V in spate","None","https://www.autovit.ro/anunt/mercedes-benz-s-580-e-4matic-long-ID7He5ST.html",\N,"DA","None",\N,"NEGRU","NONE",\N,"2023-07-25 06:02:44",\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N
+"000290a0-59a7-553f-8ee2-671b45cef3bd","VOLKSWAGEN","GOLF","None","2014","110","160","D",\N,"M","Break","None","4",\N,"214000","8400.00","RON","None","Persoana fizica","None","None","NONE","None","NONE","ROMANIA","None","None","None","DESCRIERE
+Masina este in stare foarte buna schimbat distributie si placute de frana.Mai multe detalii la fata locului.Dotari. Motor 1.6 Tdi euro6. Inchidere centralizata cu telecomanda. Geamuri electrice fata si spate. Oglinzi incalzite electric. Lumini de zi. Faruri ceata cu functie cornering. Sistem Comming home leaving home. Senzori parcare fata spate cu afisaj. Senzori presiune anvelope cu afisaj. Jante aluminiu originale 18. ABS ESP ASR. Frana de mana electrica. Autohold. Display touch-screen. Senzori lumina. Bluetooth usb aux. Pilot automat. Computer de bord. Comenzi volan. Rulou portbagaj. Webasto cu telecomanda. Cotiera l fata spate cu suport pahare. Mai multe detalii la fata locului. Pret negociabil.!!Accept orice test autorizat","None","https://www.olx.ro/d/oferta/vand-golf-7-1-6-tdi-euro-6-IDgALGm.html",\N,"INMATRICULAT","None","None","ALBASTRU","NONE","2024-03-14","2024-03-23 02:29:10","2024-04-15",\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N
+"000295e0-bb36-4618-ab4a-6f2136f9dbfd",\N,\N,"1.4 TSI DSG Edition",\N,"160",\N,"U",\N,"A",\N,\N,"3",\N,"263000","7399.00","EUR","Negociabil, Se emite factura","Firma",\N,\N,"Euro 5",\N,\N,\N,"Str Oasului 177 - 400641 Cluj-Napoca, Judet Cluj (Romania)","Cluj","","
+        VOLKSWAGEN SCIROCCO 1.4 TSI 160 CAI Benzina+GPL
+NIVEL DE ECHIPARE DE TOP
+
+Pentru a putea vizualila peste 30 de fotografii cu aceasta masina intrati de pe Autovit.ro sau pe pagina noastra de Facebook AUTO Transparent CLUJ
+
+GARANTAM KILOMETRAJUL REAL AL MASINI
+Carte service la zi
+Kilometrajul se trece pe factura de achizitie
+
+OFERIM GARANTIE 3 LUNI (3000) KILOMETRI
+
+POSIBILITATE DE FINANTARE RAPID SI USOR DE OBTINUT!
+PE PERSOANA FIZICA PANA LA 12500 DE EURO
+POSIBILITATE DE FINANTARE SI PE FIRMA
+✔FINANTARE - cu avans cuprins intre 0% si 30% din valoarea autoturismului in maxim 2 ore de la solicitare,in functie de profilul si gradul de eligibilitate al clientului se stabileste avansul.Rambursarea anticipata a sumei creditului ( partiala sau totala ) se poate realiza oricand doriti.
+
+Toate optiunile functioneaza perfect
+Nu are martori aprinsi sau erori in bord.
+Cutia de viteze schimba perfect.
+
+Sistem multimedia mare MP3,bluethooth
+Tapiserie piele nappa brown in stare impecabila
+Sistem audio Dynaudio muzica se aude bestial
+
+Pilot automat,tempomat
+Senzori de ploaie si lumini
+Jante aliaj Originale VW montate cu anvelope in stare foarte buna 235/45/17
+Volan sport cu padele imbracat in piele perforata
+Scaune sport
+Suspensie sport
+Comenzi vocale
+Comenzi pe volan
+Oglinzi si geamuri electrice
+
+Lumini de ambianta reglabile pe intensitate
+Dublu climatronic
+Oglinda retrovizorie digitala
+Pedalier sport aluminiu
+
+Masina este in stare exceptionala atat technic cat si estetic.
+Garantam autenticitatea kilometrilor.
+Suntem parc auto va sprijinim in demersurile administrative.
+Cerem si oferim seriozitate!
+Va stam la dispozitie telefonic pentru alte detalii.    ",\N,\N,\N,\N,\N,\N,"Alb",\N,\N,"2023-11-28 05:10:58","2023-04-20","https://www.autovit.ro/anunt/volkswagen-scirocco-1-4-tsi-dsg-edition-ID7HaQOR.html","Autoturisme","1390","2023-04-20",\N,"Automata",\N,"https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjNxZDVmcHdlZzN6MzMtQVVUT1ZJVFJPIiwidyI6W3siZm4iOiJxN216NTNiaWZwemstQVVUT1ZJVFJPIiwicyI6IjE2IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.ipEuzSApDvq1XjG_T_pFZ0_lH0p2ueYh8dcfQocUNVI/image;s=732x488",\N,"VOLKSWAGEN","2009","SCIROCCO","Volkswagen Scirocco 1.4 TSI DSG Edition","400641","2009-07-21","7050898593","AUTOVIT","Second hand",\N
+"0002977a-a869-515c-8a44-506de20e0001","RENAULT","GRAND SCENIC","None","2012","110",\N,"D",\N,"missing","None",\N,\N,\N,"190000","6399.00","NONE","None","None","",\N,"NONE",\N,"NONE","NONE","None","None","None","None","None","None",\N,"NONE",\N,\N,"NONE","NONE","2018-07-29","2021-10-11 14:25:10",\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N
+"00029929-6d83-5ec2-a81f-55507b6d7984","SEAT","IBIZA","None","2018","95","999","U",\N,"M","Hatchback","None","5",\N,"59000","9800.00","EUR","None","Persoana fizica","VSSZZZKJZJR058695","None","NONE","None","NONE","ROMANIA","Brasov","Brasov","None","DESCRIERE
+Vand Seat Ibiza, cu prima inmatriculare in 2018 si unic proprietar/utilizator.
+Toate reviziile au fost facute in reprezentanta Dip Motors Brasov.
+ITP facut recent, valabil pana in 2025.
+Fara accidente
+Doua chei
+Certificat de conformitate
+Revizia anuala la zi cu schimb de ulei (14.08.2023)
+
+Dotari:
+
+Versiune: 1.0 TSI
+Anul: 2018
+59000 km
+Combustibil:
+Putere: 95 CP
+Capacitate cilindrica: 999 cm3
+Filtru de particule: Da
+Cutie de viteze: Manuala
+Numar de portiere: 5
+Culoare: Albastru metalizat
+Numar locuri: 5
+Bluetooth
+Radio
+Sistem hands-free
+Port USB
+Monitor cu touch screen
+Climatronic
+Tapiterie stofa
+Incalzire scaun sofer
+Incalzire scaun pasager
+Cotiera (fata)
+Volan piele
+Volan cu comenzi
+Volan multifunctional
+Schimbator viteze piele
+Geamuri electrice fata
+Temponat
+Faruri LED
+Senzori parcare spate
+Controlul distantei
+Asistenta la franare
+Controlul tractiunii
+Asistenta in rampa
+Faruri cu temporizator
+Lumini de zi
+Lumini de zi LED
+Faruri ceata
+Stopuri LED
+Sistem Start/Stop
+Servodirectie
+Performanta
+Jante aliaj
+ABS
+ESP
+EBD
+Franare asistata
+Sistem asistenta franare oras
+Sistem franare automata pietoni
+Airbag sofer
+Airbag scaun pasager
+Isofix
+2 seturi de jante (vara si iarna)","None","https://www.olx.ro/d/oferta/seat-ibiza-2018-1-0-tsi-benzina-95-cp-unic-proprietar-IDhtwHR.html",\N,"INMATRICULAT","None","None","ALBASTRU","NONE","2023-10-22","2023-10-26 18:42:53",\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N
+"00029e8a-b8c0-4495-920e-a5100126f412",\N,\N,"L W12 6.3 FSI quattro Tiptronic",\N,"500",\N,"U",\N,"A",\N,\N,"4",\N,"160100","25000.00","EUR","Negociabil","Proprietar",\N,\N,"Euro 5",\N,\N,"Germania","Pitesti, Judet Arges","Arges","","
+            ","Da",\N,\N,"Da",\N,\N,"Gri",\N,\N,"2023-11-28 03:44:41","2023-03-16","https://www.autovit.ro/anunt/audi-a8-l-w12-6-3-fsi-quattro-tiptronic-ID7H9zw6.html","Autoturisme","6299","2023-03-16",\N,"Automata","D4 [2010 - 2017]","https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im1zMmozZ2lmNWYwZzItQVVUT1ZJVFJPIiwidyI6W3siZm4iOiJxN216NTNiaWZwemstQVVUT1ZJVFJPIiwicyI6IjE2IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ._6yNq9gBoNqrwoVanF9PhHNUSs4rJfSz_UdWnMdupms/image;s=732x488",\N,"AUDI","2013","A8","Audi A8 L W12 6.3 FSI quattro Tiptronic",\N,"2013-05-31","7050593692","AUTOVIT","Second hand",\N
+"0002abf6-4841-4199-8c5b-b1dfbb64740c",\N,\N,\N,\N,"225",\N,"D",\N,"A",\N,\N,"5",\N,"220000","7900.00","EUR","Negociabil","Proprietar",\N,\N,"Euro 4",\N,\N,\N,"Focsani, Judet Vrancea","Vrancea","","
+        JEEP Grand Cheroche anul 2007
+AUTOUTILITARA 5 Locuri de fabrica
+Motor 3.0CDi 225 CP Euro 4
+Motor Mercedes 3.0 V6
+CV Automata diferential blocabil
+Tractiune integrala 4x4
+.
+Dublu-climatronic
+Interior piele doua culori
+Navigatie originala
+Geamuri electrice fata-spate
+Oglinzi electrice-incalzite
+Trapa electrica
+Scaune fata reglabile electric
+ABS, ESP, airbag-uri
+Pilot automat
+Computer bord
+Senzori parcare fata-spate
+Proiectoare ceata
+Inchidere centralizata
+Volan reglabil, servo
+Radio/CD, comenzi volan
+DVD in tetiere spate
+Geamuri fumurii
+Jante aliaj R18
+Anvelope noi
+.
+Recent adusa, nerulata in tara
+Vopsea originala, fara accidente si fara rugina
+MASINA SE VINDE CU CARTE DE ROMANIA FACUTA (AUTOUTILITARA)
+Si cu revizie completa toate filtrele si ulei schimbate!
+Impozit mic 260 lei/an
+.
+Pret 7.900 EURO neg.
+Mai multe detalii la telefon (O766) / 770 559    ",\N,\N,\N,\N,\N,\N,"Gri",\N,\N,"2023-11-28 07:54:23","2023-06-14","https://www.autovit.ro/anunt/jeep-grand-cherokee-ID7HcBTp.html","Autoturisme","2987","2023-06-14",\N,"Automata",\N,"https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InZnNGUxaDl5bXM5NjEtQVVUT1ZJVFJPIiwidyI6W3siZm4iOiJxN216NTNiaWZwemstQVVUT1ZJVFJPIiwicyI6IjE2IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.6aWZm6j6kh0x9TnX57qyi62FJ6EsVF0mCyBMIGFUiQM/image;s=732x488",\N,"JEEP","2007","GRAND CHEROKEE","Jeep Grand Cherokee",\N,"2007-05-31","7051317871","AUTOVIT","Second hand",\N
+"0002ce0c-7a15-5d7d-b3c2-806847d84217","BMW","X6","None","2015","381","299","D",\N,"A","SUV","None","5",\N,"223000","30500.00","EUR","None","Persoana fizica","None","None","NONE","None","NONE","ROMANIA","None","None","None","DESCRIERE
+Bmw x6
+M50D
+381 cai
+223km
+Incalzire/racire
+incalzire spate
+Head-up
+Line assist
+Camere 360
+Jante 21
+Sign assist
+Line assist
+Recunoastere pietoni
+Far laser
+Soft Close
+Keyless go / easy entry
+
+Accept variante !! +/- !!!","None","https://www.olx.ro/d/oferta/bmw-x6-m50d-2015-IDifQZY.html",\N,"INMATRICULAT","None","None","ALBASTRU","NONE","2024-05-02","2024-05-08 23:42:52","2024-06-12",\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N
+"0002e8f0-1a59-5988-a031-fdaa3c589d4a","RENAULT","LAGUNA","None","2011",\N,"1500","D",\N,"M","Hatchback",\N,\N,\N,"267436","4500.00","EUR","","Proprietar","",\N,"",\N,"","","Sangeorz-Bai, judet Bistrita-Nasaud","Bistrita","","Renaul Laguna 3, an 2011, 
+Motor 1.5 Diesel 
+Cauciucuri de iarna Hankook noi (cumparate in Ianuarie 2021)
+Parbriz nou
+Turbina noua 
+DistribuEie fAcutA 
+kilometri reali 
+6+1 trepte cutie manuala 
+Geamuri electice 
+2 chei 
+Pilot automat
+Senzor parcare 
+... pentru mai multe detali contactaEi-mA  758 - arata telefon -","","https://www.olx.ro/oferta/renault-laguna-3-IDePtoy.html#e0da8025ad","2011-05-31","",\N,\N,"GRI","","2021-04-19","2021-10-19 17:24:04",\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N
+"0002f597-9f67-5af6-b844-f3c4d03026c7","AUDI","A6 ALLROAD QUATTRO","None","2013","313","296","D",\N,"A","Combi","4x4 (automat)","5","5","260000","13490.00","EUR","None","Privat","None","None","NONE","None","NONE","ROMANIA","Brasov","Brasov","None","Masina se poate vizualiza in Brasov.
+Proprietar de aproximativ 2 Ani, masina este utilizata zilnic. Vand pentru ca plec din tara pe termen lung(UK).
+- Senzori ploaie, senzori lumini, spalator faruri, senzori presiune roti
+- Active sound booster - se modifica sunetul evacuarii pe modul dinamic
+- Pilot automat
+- Senzori parcare fata+spate
+- Clima pe 4 zone
+- Scaune incalzite fata
+- Asistenta coborare panta
+- Coming/Leaving home, lumini ambientale, LED interior
+- Jukebox + DVD + AUX + 2 carduri SD + DAB Radio + Bluetooth streaming
+- Audi MMI
+- Padele pentru schimbarea vitezelor in modul manual
+
+Masina are perina de aer dreapta spate defecta!
+
+Stare tehnica si estetica buna, pretul este negociabil! 12490 Euro
+Acte la zi.
+
+Pentru mai multe detalii sau poze, va rog sa ma contactati whatsapp.
+zero, zero, trei, patru, sase,doi,patru,unu,zero,unu,sapte,noua,sase
+Sau nr de telefon: 
+
+Vezi numarul","None","https://www.autovit.ro/autoturisme/anunt/audi-a6-allroad-ID7HluOh.html","2013-01-22","NONE","None","None","NEGRU","NONE","2024-05-09","2024-05-13 16:40:08","2024-06-12",\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N
+"0003051c-3b95-57a6-9fed-4609b23a6355","RENAULT","KOLEOS","None","2011","150","1995","D",\N,"M","None",\N,"5",\N,"311000","4750.00","EUR","Negociabil","Proprietar","None",\N,"NONE",\N,"SECOND HAND","NONE","Mioveni, Judet Arges","","","FIRMA AUTORIZATA IN COMERTUL AUTO
+
+CU GARANTIE 6 LUNI PENTRU MOTOR SI CUTIE DE VITEZE
+
+CU POSIBILITATE DE FINANTARE - RATE FIXE PE O PERIOADA DE PANA LA 5 ANI, CU APROBARE RAPIDA (20 MIN) 
+DOAR CU BULETINUL
+
+RENAULT KOLEOS
+
+Anul fabricatiei 2011
+
+Km 311000 reali, trecuti in factura, cu carte service
+
+Motorizare 2.0 diesel 150 cp euro 5
+
+CUTIE DE VITEZE MANUALA 
+
+Dotari:
+
+* DUBLU CLIMATRONIC
+* Senzori parcare
+* Geamuri electrice
+* Servo-directie
+* Frana de parcare electrica
+* inchidere centralizata
+* keyless entry/Go
+* 2 cartele
+* navigatie TomTom, Bluetooth
+* Carlig remorcare
+
+Masina se afla in stare perfecta de functionare, toate dotarile functionale. Se accepta orice test.
+Consum 7%
+ 
+Revizie efectuata, distributie inlocuita.
+Baterie noua.
+
+Masina detine carte de Romania 
+Numere provizorii valabile 90 de zile.
+
+Posibilitatea de fi achizitionata in rate, doar cu buletinul, prin intermediul TBI BANK","None","https://www.autovit.ro/anunt/renault-koleos-ID7HbQYz.html",\N,"NONE","None",\N,"ALB","NONE",\N,"2023-05-16 12:01:09",\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N
+"00030fbb-d9e3-5bf4-aa87-8acd4eca4ff2","VOLKSWAGEN","PASSAT","None","2012","140","200","D",\N,"M","Berlina","None","4",\N,"312000","6750.00","EUR","None","Persoana fizica","None","None","NONE","None","NONE","ROMANIA","None","None","None","DESCRIERE
+Proprietar vind passat 2012 capacitate motor 2000 cm3 140 cp km reali carte service la zi la reprezentanta itp asigurare valabile consumabile schimbate vopsea originala .Dublu climatronic 4 geamuri electrice oglinzi electrice navigatie mare senzori de parcare fata spate jante aliaj calculator de bord radio cd . Nu ma intereseaza schimburi","None","https://www.olx.ro/d/oferta/passat-2012-capacitate-motor-2000-cm3-IDiaOqC.html",\N,"INMATRICULAT","None","None","NEGRU","NONE","2024-04-30","2024-05-03 20:30:41","2024-05-04",\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N
+"000314b3-2db9-5b2f-9200-1659d00938cb","MERCEDES","EQT","None","2013","100","1800","D",\N,"missing","Altele","None","None",\N,"677465","35000.00","EUR","None","avenue","None","None","NONE","None","NEAVARIATA","ROMANIA","Caransebes","Caras-Severin","None","Mercedes-Benz Actros cap tractor cu remorca Publi24_1701952108","None","https://www.publi24.ro/anunturi/auto-moto/masini-second-hand/mercedes-benz/eqt/anunt/mercedes-benz-actros/3e34i7h943gg7299200fe924469425d7.html",\N,"INMATRICULATA","None","None","missing","NONE","2023-12-21","2023-12-22 18:03:20",\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N
+"0003209c-6e05-590d-887c-86968533d790","SEAT","IBIZA","Coupe 1.8 TSI Start&Stop Cupra","2016","192","179","U",\N,"M","Coupe","Fata","3","5","62500","13200.00","EUR","None","Privat","None","None","EURO 5","124 g/km","NONE","ROMANIA","Timisoara","Timis","None","Unic proprietar.
+Masina a fost foarte ingrijita si in special pe partea de piese. Nu au fost probleme cu ea in afara de ambreaj si frane (placute si discuri).
+
+Ambreajul a cedat la 20.000km si am pus Sachs ca sa stiu ca nu vor mai fi probleme.
+
+Franele sunt Brembo si pe fata si pe spate schimbate acum cateva luni la 60.000km.
+
+In rest nu au existat probleme.
+
+Din fabrica i-am pus aparatoare de noroi si un eleron original.
+
+I-am pus soft Revo Stage 1 - 230 ps pentru acceleratie lina, masina din fabrica era foarte agresiva.
+
+Masina nu a participat la curse de nici un fel si nu a fost fortata in nici un fel.
+
+Are multiple zgarieturi exterioare pentru care am poze. Am luat in calcul toate aceste neajunsuri la pret.
+
+Masina are fiecare alimentare pusa pe siteul spritmonitor.de si are consumul real de 10.26 l/100km pe toti cei 62956km (inregistrati pe soft). 72% din acestia sunt in oras.","None","https://www.autovit.ro/autoturisme/anunt/seat-ibiza-coupe-1-8-tsi-start-stop-cupra-ID7Hm67m.html","2016-09-09","NONE","None","None","ALB","METALIZATA","2024-05-09","2024-05-13 20:57:40","2024-06-12",\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N
+"000324cf-0d39-5c1d-86e1-6c6e40669ff0","RENAULT","MEGANE","None","2014","110","14613","D",\N,"M","None",\N,"4",\N,"214500","5950.00","EUR","Negociabil","Firma","None",\N,"NONE",\N,"SECOND HAND","OLANDA","Strada Calea Aurel Vlaicu numar 161 - 310160 Arad, Judet Arad (Romania)","","","Renault Megane 1.5 Diesel 110 Cp 2014 Euro 5
+
+*** MASINA SE AFLA IN TIMISOARA! ***
+
+* An 2014
+* Motor 1500 cmc diesel
+* 110 cai putere
+* Norma de poluare Euro 5
+* Rulaj 214500 km reali cu carte service originala
+* Cutie de viteze manuala cu 6+1 trepte
+* Geamuri electrice fata si spate
+* Oglinzi incalzite electric
+* Computer de bord
+* Comenzi pe volan
+* Navigatie
+* Pilot automat
+* Start-Stop
+* Parktronic
+* Pachet chrome
+* Interior curat, fara uzura
+* Proiectoare de ceata
+* Inchidere centralizata cu cheie, doua chei
+* ABS, ESP, servodirectie, airbag-uri
+* Import Olanda, numere valabile
+* Consumabile schimbate
+* Stare de functionare ireprosabila
+* Accept orice test!
+
+*** NU RASPUND LA MESAJE SAU MAIL! ***
+*** PROPRIETAR PERSOANA FIZICA! ***
+
+Pret 5950 euro negociabil. Telefon  073 - Arata numarul -","None","https://www.autovit.ro/anunt/renault-megane-ID7Hex75.html",\N,"NONE",\N,\N,"GRI","NONE","2023-08-07","2023-08-08 06:01:46",\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N
+"0003295d-137d-5f5f-8839-d63a07882b27","OPEL","GRANDLAND X","None","2020","131","149","D",\N,"missing","Suv","None","None",\N,"125000","16900.00","EUR","negociabil","Smart Trade","None","None","NONE","None","NEAVARIATA","ROMANIA","Sector 5","Bucuresti","None","Opel Grandland X 1.5 diesel 12.2020
+131 cp Publi24_1717080805","None","https://www.publi24.ro/anunturi/auto-moto/masini-second-hand/opel/grandland-x/anunt/grandland-x-de-vanzare/gee934f4hdi77gf8d4525gdf5g41igi2.html",\N,"INMATRICULABILA","None","None","missing","NONE","2024-05-30","2024-06-05 17:26:25","2024-06-12",\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N
+"00035f0c-9db7-4962-bcfc-2ee85afc678b",\N,\N,"TCe 130 2WD Sondermodell Extreme",\N,"131",\N,"U",\N,"M",\N,\N,"5",\N,"17065","12850.00","EUR","Se emite factura","Firma",\N,\N,"Euro 6",\N,\N,"Germania","Str Razboieni nr 10 - 110224 Pitesti, Judet Arges (Romania)","Arges","","
+        Dacia Duster 1.3 TCE 131cp
+VIN: VF1HJD20163153674
+Faruri automate
+Camera 360g
+Senzori de unghi 
+Scaune incalzite 
+Senzori de parcare 
+Senzori presiune pneuri
+Navigatie full europa cu ecran tactil
+Key Less Entry/Go
+Geamuri fumurii cu protectie solara
+Jante aliaj 17 cu anvelope vara
+Lumini de zi LED
+Tractiune 4x2
+Climatronic 
+Hill Descend Assist
+Functie ECO
+Computer bord
+Pilot automat
+Limitator viteza
+Faruri ceata
+4x geamuri electrice
+Oglinzi electrice
+Oglinzi incalzite
+Cotiera fata
+Radio / CD / Bluetooth / USB
+Start / Stop
+Comenzi volan
+Sistem control tractiune
+Senzori presiune pneuri
+Autoturismul se prezinta intr-o stare perfecta
+Posibillitate Rate/Credit/Finantare. Buy/Back    ","Da",\N,\N,\N,\N,\N,"Rosu",\N,\N,"2023-11-28 05:02:06","2023-04-16","https://www.autovit.ro/anunt/dacia-duster-tce-130-2wd-sondermodell-extreme-ID7HaG7t.html","Autoturisme","1332","2023-04-16",\N,"Manuala","II [2018 - Prezent]","https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjZwYjM4OG93N3cwajMtQVVUT1ZJVFJPIiwidyI6W3siZm4iOiJxN216NTNiaWZwemstQVVUT1ZJVFJPIiwicyI6IjE2IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.Lg1t1f-bklIO2rZu-qtoDTnm9aoSsgceb4W7iqPxI_k/image;s=732x488",\N,"DACIA","2019","DUSTER","Dacia Duster TCe 130 2WD Sondermodell Extreme","110224","2019-05-31","7050857463","AUTOVIT","Second hand",\N
+"00036e4c-378e-5475-83e0-db9efbae84f5","JAGUAR","I-PACE","HSE","2022","400",\N,"E",\N,"A","SUV","4x4 (automat)","5",\N,"12500","88060.00","EUR","None","Firma","None","None","NONE","None","NONE","ROMANIA","nr 177 - 700545 Iasi","Iasi","None","Vopsea nemetalizata alba Fuji White 
+ Scaune Sport din piele Windsor Ebony cu interior negru Ebony/Ebony 
+ Pachet Cold Climate contine:
+Parbriz incalzit 
+Jeturi de apa incalzite 
+Volan incalzit - 
+ Functia de ionizare a aerului din habitaclu cu filtru PM2.5 
+ Incarcare wireless cu amplificator de semnal 
+Suport pahare fata cu acoperitoare 
+ Suspensie pneumatica (suspensie pneumatica fata&spate) 
+ Sistem de reglare automata a suspensiei - Adaptive Dynamics (contine modul
+Dynamic)
+ Oglinda interioara retrovizoare ClearSight 
+ Jante din aliaj de 20"" cu 6 spite - 'Style 6007' Gloss Sparkle Silver 
+ Scaune fata incalzite&ventilate, reglabile electric pe 16 directii si reglajul
+manual al tetierelor 
+ Plafon panoramic fix 
+ Geamuri privacy 
+ Prezoane antifurt 
+Faruri de ceata fata 
+ Lumina ambientala configurabila 
+ Senzor de intruziune (protectie perimetrica si volumetrica) 
+ Covorase din mocheta 
+ Sistem Adaptive Surface Response 
+ Sistem Click&Go - mecanism montat pe spatele scaunelor fata care permite
+atasarea tabletelor pentru sistem multimedia spate","None","https://www.autovit.ro/autoturisme/anunt/jaguar-i-pace-hse-ID7HeFbC.html",\N,"NONE","None","None","ALB","NONE","2023-10-23","2023-10-26 14:57:30",\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N
+"000372a6-6e47-58cf-921d-cc88ebac8491","VOLVO","XC60","None","2014","181","200","D",\N,"M","SUV","None","5",\N,"206000","12800.00","EUR","None","Persoana fizica","YV1DZ73C1E2562869","None","NONE","None","NONE","ROMANIA","None","None","None","DESCRIERE
+Volvo xc60 Manual
+km 206000 reali, tester plus starile tehnice pentru a arata autenticitatea lor
+Masina este 4x2
+Anvelopele au un profil de 90%
+Jantele nu sunt zgariate
+Schimbul de ulei a fost facut!
+Interior din material
+Senzori de ploaie
+Senzori de parcare
+Franare la o viteza sub 60km/h
+Pentru alte detalii, la telefon","None","https://www.olx.ro/d/oferta/volvo-xc60-2-0-181-kinetic-manual-IDihLDk.html",\N,"NEINMATRICULAT","None","None","BEJ","NONE","2024-05-13","2024-05-18 10:33:24","2024-06-12",\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N
+"00038410-43bd-59bd-8b18-8067c32e6f8f","CITROEN","XSARA PICASSO","None","2005",\N,"1749","U",\N,"M","Monovolum",\N,\N,\N,"198000","1390.00","EUR","Negociabil","Proprietar","",\N,"",\N,"UTILIZAT","","Ramnicu Valcea, judet Valcea","Valcea","","Numar sasiu VF7CH6FZC39918593
+Model	XSARA PICASSO
+Km 198000 REALI
+Carte Service
+I
+An fabricaEie 2005
+1,8 benzina capacitate 1749 cm
+116 cai putere
+AZnchidere centralizatA 2 chei
+Oglinzi electrice AncAlzite 
+Aer Conditionat automat (clima)
+4xgeamuri electrice
+Pilot automat
+Cotiere
+Jante aluminiu 15 anvelope iarna.
+Incalzire SCAUNE
+PROIECTOARE CORNERING
+EURO 4
+abs / srs / asr / esp 
+COMPUTER BORD
+geamuri electrice/ionizate 
+Radio/Cd
+Comenzi volan
+
+Volan reglabil scaune reglabile fata si spate
+
+Azi 09.03.2021 s-au scos numere rosii pentru 3 luni.","","https://www.olx.ro/oferta/citroen-xsara-picasso-IDeEwUn.html#b67e75ea05","2005-05-31","",\N,\N,"VERDE","","2021-04-05","2021-10-19 17:23:36",\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N
+"00038529-9bdd-5da6-949e-96b269484f82","RENAULT","ZOE","None","2020","135",\N,"E",\N,"A","Hatchback","None","5",\N,"40000","21000.00","EUR","None","Persoana fizica","VGF1G000365601798","None","NONE","None","NONE","ROMANIA","Craiova","Dolj","None","DESCRIERE
+Renault Zoe R 135
+Culoare Blanc Glacier
+Baterie 52 KWH
+Autonomie 250-300 km
+Toate optiunile inafara de scaune incalzite si sistemul BOSE audio
+40000 km
+Jante + Cauciucuri de iarna Nokian","None","https://www.olx.ro/d/oferta/renault-zoe-2020-r135-intens-52-kwh-IDhBz2o.html",\N,"INMATRICULAT","None","None","ALB","NONE","2023-09-28","2023-10-26 18:30:18",\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N
+"00038b09-f415-5d33-95ec-693f657be9ed","OPEL","INSIGNIA","None","2012","140",\N,"D",\N,"missing","None",\N,\N,\N,"135000","6680.67","NONE","None","None","",\N,"NONE",\N,"NONE","NONE","None","None","None","None","None","None",\N,"NONE",\N,\N,"NONE","NONE","2018-02-26","2021-10-11 14:25:10",\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N
+"000400c6-97ab-5084-aa8f-0a9d7028004a","RENAULT","CLIO","IV 1.2 Life","2018","75","114","U",\N,"M","Combi","Fata","5","5","48152","9500.00","EUR","None","Privat","None","None","EURO 6","127 g/km","NONE","ROMANIA","Timisoara","Timis","None","","None","https://www.autovit.ro/autoturisme/anunt/renault-clio-iv-1-2-life-ID7HlQcW.html",\N,"NONE","None","None","ROSU","NONE","2024-04-21","2024-04-22 20:00:59","2024-05-04",\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N
+"00041b0a-2865-526a-affb-6aee9dca1e4e","TOYOTA","C-HR","1.8 HSD 122 CP 4x2 CVT C-ult Style","2020","98","179","HIBRID",\N,"A","SUV","Fata","5","5","97929","20950.00","EUR","None","Firma","None","None","NONE","120 g/km","NONE","ROMANIA","Romania - 015015 Bucuresti","Bucuresti","None","Masina achizitionata de noua din Romania.Tva inclus si deductibil
+Se poate finanta atat pe persoana fizica ( credit auto ) cat si persoana juridica ( leasing financiar).Se ofera garantie 1 an.","None","https://www.autovit.ro/autoturisme/anunt/toyota-c-hr-1-8-hsd-122-cp-4x2-cvt-c-ult-style-ID7Hj4Ty.html","2021-04-07","NONE","None","None","ALBASTRU","NONE","2024-01-05","2024-01-10 15:28:19",\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N
+"00042bad-5589-4450-aa58-44f2025b3cf4",\N,\N,"2.0 TDI 4Motion",\N,"140",\N,"D",\N,"M",\N,\N,"5",\N,"252000","7650.00","EUR","Negociabil","Proprietar",\N,\N,"Euro 4",\N,\N,\N,"Brasov, Judet Brasov","Brasov","","
+        Vw Tiguan an fabricație 2008 ,Motor diessel 1968cm TDI 143 cai ,Km reali cu verificare unde doriți 252500.Dotari: Dublu klimatronic, Navigatie mare cu android afișează și kilometrajul cu cât de deplasezi,
+Toate geamurile electrice, Închidere centralizata, 2chei briceag,
+Tapiterie de plus curata,Panoramă mare funcțională, Volan multifuncțional, Computer de bord ,10 Airbag-uri, Bord refrigerat, Faruri automate, Cârlig de remorcare, Niciun martor aprins la bord, Motorul merge foarte bine tobele sunt curate nu scoate gram de fum. Arata farte bine interior și exterior nu are zgârieturi sau lovituri . Accept tesst autorizat unde doriți.Mai multe relați la telefon  074 - arata numarul -     ",\N,\N,\N,\N,\N,\N,"Negru",\N,\N,"2023-11-28 03:07:16","2023-03-03","https://www.autovit.ro/anunt/volkswagen-tiguan-2-0-tdi-4motion-ID7H8NjE.html","Autoturisme","1968","2023-03-03",\N,"Manuala",\N,"https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjU1bDZvbjJpd2hndjItQVVUT1ZJVFJPIiwidyI6W3siZm4iOiJxN216NTNiaWZwemstQVVUT1ZJVFJPIiwicyI6IjE2IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.FLejDLoIbJzPMRaN3USGdrxxd5JegaLSYolfkluoKJE/image;s=732x488",\N,"VOLKSWAGEN","2008","TIGUAN","Volkswagen Tiguan 2.0 TDI 4Motion",\N,"2008-05-31","7050408470","AUTOVIT","Second hand",\N
+"00043777-d21c-5d44-9868-222360a5eab8","SEAT","EXEO","None","2010","130","199","D",\N,"M","Break","None","5",\N,"264000","4000.00","EUR","None","Persoana fizica","None","None","NONE","None","NONE","ROMANIA","None","None","None","DESCRIERE
+Seat exeo 2.0 tdi euro 5 an 2010
+Revizii la zi. Distributie si volanta schimbate
+Un pic lovita bara din spate","None","https://www.olx.ro/d/oferta/seat-exeo-2-0-tdi-euro-5-an-2010-IDigZgn.html",\N,"INMATRICULAT","None","None","NEGRU","NONE","2024-05-10","2024-05-25 06:04:22","2024-06-12",\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N
+"000442f1-de06-4f0c-9bc1-c6edf6927336",\N,\N,"2.2 CRDi 4WD AT",\N,"200",\N,"D",\N,"A",\N,\N,"5",\N,"163800","18800.00","EUR","Negociabil","Proprietar",\N,\N,"Euro 6",\N,\N,"Germania","Oradea, Judet Bihor","Bihor","","
+        HYUNDAI SANTA FE 2,2 CRDI 200CP AUTOMATIC 4X4, FACELIFT
+Modelul FACELIFT 2016
+INCALZIRE SCAUNE FATA
+VENTILATIE SCAUNE FATA
+INCALZIRE BANCHETA SPATE
+INCALZIRE VOLAN
+CAMERA VIDEO MARSARIER 360 GRADE
+PANORMA PLAFON CU JALUZEA RETRACTABILA ELECTRIC
+Faruri XENON/ Led
+Lane assist / FRONT ASSIST / SIDE ASSIST
+Sistem navigatie professional cu Touchscreen
+Sistem audio professional INFINITY
+USB / Aux-IN 
+Bluetooth / Telefon
+LED Daylight + Lampi spate-LUMINI DE ZI
+Auto HOLD / AUTOHILL
+ISOFIX
+Frana de mana electrica
+Senzori parcare cu afisaj (camera)
+Banchete spate reglabile
+Geamuri spate si luneta fumurii de fabrica
+Perdele geamuri laterale spate
+Pilot automat cu functie de franare
+PRIZA 230V PORTBAGAJ
+Jante aliaj Hyundai cu anvelope MICHELLIN
+Asistenta la coborarea in panta
+Suport pahare
+Senzori lumina
+Proiectoare ceata
+Cârlig remorcare
+ABS / ESP
+Inchidere centralizata
+Alarma
+• Stergatoare parbriz automate
+• Senzor de ploaie
+• Oglinda retrovizoare interioara electrocromacnetica
+• Oglinzi retrovizoare incalzite
+• Oglinzi retrovizoare ajustabile electric / Pliabile electric din telecomanda
+Stare ireprosabila, toate reviziile sunt facute si trecute in cartea de service HYUNDAY
+Ultima revizie s-a facut la 161 800km, in luna DEC 2022: DISCURI,PLACUTE,FILTRE SI ULEI
+stare tehnica si estetica bună, fără accidente istoric curat, vopsea originală fără elemente revopsite, nu este cozmetizata pt vânzare, ulei+filtre plăcute frana înlocuite, Servisata la zi...
+VIN : KMHSW81XDGU645353
+Detin si ofer la cerere raport CAR VERTICAL.    ",\N,\N,\N,\N,\N,\N,"Negru",\N,\N,"2023-11-28 03:30:51","2023-03-12","https://www.autovit.ro/anunt/hyundai-santa-fe-2-2-crdi-4wd-at-ID7H95gW.html","Autoturisme","2199","2023-03-12",\N,"Automata",\N,"https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImN3bTVpaDdjbnkxcDMtQVVUT1ZJVFJPIiwidyI6W3siZm4iOiJxN216NTNiaWZwemstQVVUT1ZJVFJPIiwicyI6IjE2IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.xTT4BL-V8sT6OnxjcBQ2O_0liHhERAda4xP2EQ4ITRU/image;s=732x488",\N,"HYUNDAI","2016","SANTA FE","Hyundai Santa Fe 2.2 CRDi 4WD AT",\N,"2016-05-29","7050477493","AUTOVIT","Second hand",\N
+"00046115-6bdc-5ee0-9375-16b5a814b14e","VOLKSWAGEN","PASSAT CC","2.0 TSI","2008","200","1984","U",\N,"M","None",\N,"4",\N,"179180","6999.00","EUR","Negociabil","Proprietar","None",\N,"NONE",\N,"SECOND HAND","DANEMARCA","Segarcea, Judet Dolj","","","vw passat cc 
+an fabricatie 08/2008
+motor 2.0 benzina 200cp
+geam panoramic
+interior piele
+Comenzi pe volan 
+Bluethoot 
+Auxiliar 
+Pilot automat 
+Dublu climatronic 
+Scaune incalzite 
+Faruri automate XENON 
+cornering 
+Senzori de parcare 
+Perdea spate electrica 
+Suspensie reglabila ,,sport confort normal,,
+carte service 
+tel 07663088553","None","https://www.autovit.ro/anunt/volkswagen-passat-cc-2-0-tsi-ID7H8UMk.html",\N,"NONE","None",\N,"NEGRU","NONE",\N,"2023-03-08 06:02:46",\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N
+"0004acc2-f47a-480d-86fd-bef81ab3a8f4",\N,\N,\N,\N,"130",\N,"D",\N,"M",\N,\N,"4",\N,"55535","18490.00","EUR","TVA deductibil, Negociabil, Se emite factura","Firma",\N,\N,"Euro 6",\N,\N,"Romania","Str. Calea Bucuresti nr 115,comuna Pielesti - 200000 Craiova, Judet Dolj (Romania)","Bucuresti","","
+        Prima inmatriculare 08.2018/Euro 6
+Putere : 110 CP
+Dimensiuni utile bena: Lungime: 2.60 m, Latime: 1.87 m, Inaltime: 1.68
+3 locuri
+Aer conditionat
+Conexiune Bluetooth
+Geamuri electrice
+Oglinzi electrice
+Lumini de zi
+Cotiera scaun sofer
+Radio/CD Mp3 - AUX - USB - BT JVC
+Computer bord
+ABS/ESP
+Inchidere centralizata
+Servo directie
+Usa culisanta
+Transmisie manuala (6+1)    ",\N,\N,\N,"Da",\N,\N,"Alb",\N,\N,"2023-11-28 09:22:57","2023-07-14","https://www.autovit.ro/anunt/peugeot-boxer-ID7Hdwoo.html","Autoturisme","1997","2023-07-14",\N,"Manuala",\N,"https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjNrajg0NDhpbW14ZDItQVVUT1ZJVFJPIiwidyI6W3siZm4iOiJxN216NTNiaWZwemstQVVUT1ZJVFJPIiwicyI6IjE2IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.oHgw9jGYs2DJIdtwnast5wrt2W6abB8Sh9_rNR4kn5Y/image;s=732x488",\N,"PEUGEOT","2018","BOXER","Peugeot Boxer","200000","2018-05-31","7051531212","AUTOVIT","Second hand",\N
+"0004b61e-59cf-57ac-b385-ace8e3eae124","RENAULT","MEGANE","None","2006",\N,"1900","D",\N,"M","Berlina",\N,\N,\N,"234000","1800.00","EUR","Negociabil","Proprietar","",\N,"",\N,"UTILIZAT","","Timisoara, judet Timis","Timis","","Renault megane 2
+Motor 1.9
+An 2006
+Masina este in stare buna de functionare cat si estetic.
+Pret:
+1800 euro","","https://www.olx.ro/oferta/renault-megane-2-IDeSQQC.html#e0da8025ad","2006-05-31","",\N,\N,"ROSU","","2021-05-05","2021-10-19 17:24:48",\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N
+"0004d73f-1e5d-55fb-b8bb-016943df3530","FORD","FIESTA","1.0 EcoBoost Powershift Titanium","2019","100","999","U",\N,"A","Masina de oras","Fata","5","5","45140","13989.00","EUR","None","Firma","None","None","EURO 6","118 g/km","NONE","ROMANIA","Romania - 050696 Bucuresti","Bucuresti","None","CLASS AUTOMOTIVE  Dealer Auto Rulate
+--Experienta 15 ani--
+
+Ford Fiesta 1.0 Ecoboost Titanium Automat
+
+Serie sasiu: WF0JXXGAHJHE18220
+
+Pret: 13.990 EURO TVA inclus si Deductibil
+
+Factura se va emite in lei la cursul de vanzare euro al Bancii Transilvania din data efectuarii platii.
+
+Garantie
+
+Istoric service Ford detaliat
+Autoturism verificat tehnic
+KM garantati contractual
+
+Dotari:
+
+- Lumini de zi LED
+
+- Faruri cu lupa
+
+- Proiectoare ceata
+
+- Jante aliaj
+
+- Stopuri LED
+
+- Senzori de parcare spate cu afisaj
+
+- Volan multifunctional imbracat in piele
+
+- Start - Stop
+
+- Climatronic
+
+- Scaune fata incalzite
+
+- Parbriz incalzit
+
+- Volan incalzit
+
+- Navigatie
+
+- Android Auto si Apple Carplay
+
+- Keyless GO
+
+- Keyless Entry
+
+- Geamuri electrice fata-spate
+
+- Oglinzi reglabile, incalzite si rabatabile electric
+
+- Lane Assist
+
+- Senzor ploaie si lumina
+
+- Cruise control
+
+
+Pret finantare: 14.270 euro tva inclus si deductibil.
+
+Descrierea autovehicului este strict informativa, pot exista greseli de dactilografiere (optiuni, performanta a motorului, capacitate cilindrica, transmisie etc.)
+
+In caz de nelamuriri cu privire la optiunile prezentate, ne puteti contacta telefonic pentru detalii suplimentare.","None","https://www.autovit.ro/autoturisme/anunt/ford-fiesta-1-0-ecoboost-powershift-titanium-ID7HeuyY.html","2019-01-11","NONE","None","None","ALB","NONE","2023-10-21","2023-10-26 11:58:04",\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N
+"0004eca0-5c18-54d7-94a0-6bec77298423","INFINITI","FX","None","2008","280","350","U",\N,"A","SUV","None","5",\N,"110000","7500.00","EUR","None","Persoana fizica","None","None","NONE","None","NONE","ROMANIA","None","None","None","DESCRIERE
+Vand Infiniti FX35, fabricatie 2008, tractiune integrala.Stare generala foarte buna.Scutita de impozit daca ramane cu numerele astea (se poate vinde cu procura sau contract de comodat).Mai multe detalii la telefon.","None","https://www.olx.ro/d/oferta/infiniti-fx35-awd-IDijgCD.html",\N,"INMATRICULAT","None","None","NEGRU","NONE","2024-05-22","2024-05-24 04:06:31","2024-06-12",\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N
+"000525ee-e2fd-55c7-bb01-9d1c51b9e83d","MERCEDES","SPRINTER","None","2014","160","2148","D",\N,"M","None",\N,"None",\N,"410134","9150.00","EUR","Pret Brut, Negociabil","Firma","None",\N,"EURO 5",\N,"SECOND HAND","NONE","str Principala nr 238 - 430283 Bistrita, Judet Bistrita-Nasaud (Romania)","","ABS, Bluetooth, Controlul stabilitatii (ESP), Incalzire auxiliara, DVD, Aer conditionat, CD, Controlul tractiunii (ASR), Inchidere centralizata, Navigatie GPS, Airbag-uri, Cabina de dormit, Geamuri electrice, Suspensie reglabila, Statie radio"," Anunt Publicat de Revista Auto /
+ Oferit de Proprietar Persoana Fizica
+Telefon.  075 - arata numarul -  - Nasaud. BN 
+
+~ An de fabricatie 05.2014
+~ Motor 2.2 Cdi (2148 cmc diesel) ,160 cp
+~ Norma de poluare: Euro 5
+~ Cutie manuala 6+1 trepte
+~ Se conduce cu permis auto categoria B
+~ Climatronic
+~ Pat de dormit
+~ ABS, ESP, SRS,Airbag-uri
+~ Inchidere centralizata
+~ Geamuri electrice
+~ Oglinzi electrice
+~ Computer bord
+~ Statie radio
+~ Navigatie DVD stik USB
+~ Radio cd mp3
+~ Schimbat ulei filtre distributie
+~ Inmatriculat Ro acte si taxe la zi
+~ Pentru cei interesati se poate omologa si cu locuri ( contracost)
+~ Stare tehnica si optica buna
+~ Functioneaza foarte bine fara probleme
+~ Accept orice test auto
+~ Mai multe detali la telefon
+
+~ Pret 9.150 Euro usor Negociabil
+
+~ Detalii doar la nunarul de telefon din anunt !!!","None","https://www.autovit.ro/anunt/mercedes-benz-sprinter-ID7HdnBb.html",\N,"DA","None",\N,"ALB","NONE",\N,"2023-07-18 06:02:27",\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N
+"00052f5f-5266-5eda-a158-2aac646415d5","SKODA","FABIA","1.4 TDI","2005","75","1422","D",\N,"M","None",\N,"5",\N,"257000","1399.00","EUR","","Proprietar","None",\N,"NONE",\N,"SECOND HAND","AUSTRIA","Baia Mare, Judet Maramures","Maramures","","VANZARE IN RATE, AVANS 0. Skoda Fabia 1.4 TDI, 2005, AC
+
+Pret FIX 1399 Euro
+
+Cash sau posibilitate RATE doar cu buletinul
+Aprobarea dosarului se face intre 30-120 min
+Perioada finantare intre 6 si 60 luni cu avans 0
+Rate fixe incepand de la 202.47 lei / luna (in functie de scoring-ul clientului)
+
+Conditii pentru finantare: 
+- carte de identitate si adresa de email
+- varsta: 18-75 ani (75 ani la incheierea creditului)
+- vechime la actualul angajator minim 3 luni
+- salariul minim 1386 lei sau pensie minima 1250 lei
+- ratele sa nu depaseasca 40% din venit pentru salarii de pana la 3500 lei
+- ratele sa nu depaseasca 65% din venit pentru salarii de peste 3500 lei
+- fara istoric negativ in Biroul de credit
+
+NOU! Se accepta si venituri din strainatate!
+Conditii creditare:
+- vechime la locul de munca: minim 6 luni
+- extras de cont pe ultimele 3 luni
+- contract tradus de un traducator autorizat
+
+Descriere auto: Skoda Fabia
+ motor diesel 1.4 TDI
+ 55 kw - 75 CP
+ prima inmatriculare 11/2004
+ 257.000 km
+ consum extern 3,8 l/100 km
+
+Dotari:
+ aer conditionat
+ geamuri electrice fata
+ inchidere centralizata cu telecomanda pe cheie
+ doua chei
+ servo
+ ABS
+ 4 airbag-uri
+ culoare metalizata
+
+ adusa din Austria
+ nerulata in RO
+ nu s-au scos numere rosii
+ fara rugina
+ impozit si asigurare mici
+ asiguram asistenta la inmatriculare
+
+Stare generala buna
+Nu doresc schimburi
+Pret FIX 1399 Euro cash sau posibilitate RATE
+TEL  074 - arata numarul - .","None","https://www.autovit.ro/anunt/skoda-fabia-1-4-tdi-ID7H3YqC.html","2005-05-31","NONE",\N,\N,"NEGRU","NONE","2022-09-05","2022-09-05 06:05:35",\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N
+"000531e6-fe9b-5ef2-a332-0a3bc98682f2","PEUGEOT","307","None","2007",\N,"1600","D",\N,"M","Berlina",\N,\N,\N,"100","3300.00","EUR","Negociabil","Proprietar","",\N,"",\N,"UTILIZAT","","Fundaturile, judet Buzau","Buzau","","Consum f mic de motorina, impozit mic la primarie, reviziile efectuate numai la  reprezentanta Eurial PloieETMti .
+Stare f buna de functionare ! Mai multe detalii la telefon","","https://www.olx.ro/oferta/vand-peugeot-307-stare-f-buna-de-functionare-IDeQdKg.html#d3458bb3e4","2007-05-31","",\N,\N,"NEGRU","","2021-04-22","2021-10-19 17:24:16",\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N
+"000532cc-f021-5e62-bb9a-6c80f27ad6d5","MERCEDES","GLE-CLASS COUPE","AMG 63 S MHEV 4MATIC+","2021","612","398","U",\N,"A","SUV","4x4 (automat)","5",\N,"67000","109000.00","EUR","None","Privat","None","None","NONE","None","NONE","ROMANIA","Bucuresti","Sectorul 3","None","-Inmatriculata persoana fizica
+Pachet AMG
+-Pachet Carbon Interior
+-DISTRONIC Plus
+-Apple Carplay / Android Auto
+Full Digital Display cu Multiple Moduri de Afisaj
+-Plafon Panoramic
+-Plafon si Stalpi din Alcantara
+-Pachet Exterior Shadow Line
+-Suspensie Pneumatica
+-Faruri Multibeam LED
+-Camere 360 Grade 3D
+-Multiple Moduri de Condus: Individual / Sport/
+Sport+ Comfort Sand Slippery Y Trail
+-Sonorizare Burmester
+-Cup Holder cu Functie de Racire / Incalzire
+-Scaune Full Electrice, Incalzite / Ventilate cu
+Functie de Masaj si Memorie Fata
+-Scaune Incalzite Spate
+-Volan AMG din Piele si Alcantara cu Insertii de
+Carbon, Multifunctional, Reglabil Electric cu
+Padele
+Comutator Moduri de Condus pe Volan
+-Interior din Piele si alcantara
+-Soft Close
+-Praguri din Aluminiu AMG Iluminate
+-Head Up Display
+-Seat Kinetics
+-Traffic Sian Assist
+-Traffic Light View
+-Active Lane Keeping Assist
+-Active Lane Change Assist
+-Active Brake Assist
+-Attention Assist
+-Active Blind Spot Assist
+-Route Based Speed Adapt.
+-Adaptive Damping System Plus
+-Active Parking Assist
+-Active Stop-and-Go Assist
+-Automatic Dimming Inside Rearview Mirror and
+Outside Mirrors
+-GPS Aerial
+-Exit Warning Assistant
+-Memory Package
+-Ecall Emergency Call System
+-Hard Drive Navigation
+-Live Traffic Capability
+-Electric Active Roll Stabilization
+-Tire Pressure Monitor
+-AIRMATIC DC
+-Electrically Folding Exterior Mirrors
+-Road Sign Recognition System
+-Automatic Speed Control
+-Standard anti-theft Alarm System
+-Automatic High Beam Control Plus
+Dynamic LED Headlamps
+-USB Package
+-AMG Styling Front Spoiler, Side Skirts
+-Lumini Ambientale in Diverse Culori
+-Clima Automata pe 4 Zone
+-Hayon Actionat Electric
+-Sistem de Monitorizare a Presiunii in Roti
+-Lumini de Zi LED
+-Stopuri Spate LED
+-Geamuri cu Tenta
+-Jante AMG R22
+-Masina este inmatriculata persoana fizica
+-Pretul pentru schimb cu alt autoturism este de 115000 euro","None","https://www.autovit.ro/autoturisme/anunt/mercedes-benz-gle-coupe-amg-63-s-mhev-4matic-ID7HleGa.html",\N,"NONE","None","None","NEGRU","NONE","2024-04-01","2024-04-03 10:09:47","2024-04-16",\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N
+"000543b2-78af-5f4f-ad1a-8cd2300ca7f9","BMW","SERIA X","x1","2012","170","2000","D",\N,"missing","Suv",\N,"None",\N,"180000","8750.00","EUR","negociabil","Salagean Vlad","None",\N,"NONE",\N,"NEAVARIATA","ROMANIA","Satu Mare","Satu Mare","None","Pret 8.750 - EURO
+
+# BMW X1
+
+^ Autoturism personal !!!
+
+^ An fabricatie: 2012.
+
+^ Capacitate cilindrica: 1995
+
+^ Transmisie: manuala
+
+^ Norma de poluare Euro 5
+
+# Culoare Negru
+
+# INTRETINUTA EXEMPLAR *
+
+# Km : 180.000 - in crestere
+
+#masina are toate reviziile facute la ZI
+
+# Varianta Edition
+
+ABS
+DTC
+Servodirectie asistata electric
+Volan multifunctional
+Airbag-uri fata (sofer + pasager), laterale fata si cortina fata /spate
+Dublu Climatronic
+Start / Stop
+Senzori parcare
+Senzori ploaie
+Senzori pneuri
+Geamuri electrice fata/spate cu mod impuls
+Oglinzi reglabile electric, incalzite si
+rabatabile
+Limitator de viteza
+Multimedia, Bluethoot, AUX, USB
+Cotiera fata/spate refrigerata + suport pahare
+Sistem ISOFIX
+Temporizator
+Inchidere centralizata
+Stergatoare parbriz automate intermitente
+Computer de bord multifunctional
+Proiectoare ceata
+Jante aliaj R17
+# Nu necesita nici o investitie
+
+Autoturismul se prezinta in stare perfecta de functionare, fara probleme de ordin tehnic sau estetic...
+
+Tel.: Publi24_1694926716","None","https://www.publi24.ro/anunturi/auto-moto/masini-second-hand/bmw/seria-x/anunt/bmw-x1-2012/379538dde1gh7h382d9fi2ef1ddgg686.html",\N,"INMATRICULABILA",\N,\N,"NONE","NONE","2023-10-24","2023-10-25 02:10:46",\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N
+"00054fed-e3b8-458b-8ab7-5e8dddd5d74d",\N,\N,"450 4MATIC",\N,"360",\N,"E",\N,"A",\N,\N,"4",\N,"6000","157816.00","EUR","TVA deductibil, Se emite factura","Firma",\N,\N,"Euro 6",\N,\N,\N,"Calea Radnei Nr.247 - 310316 Arad, Judet Arad (Romania)","Arad","","
+        Pret de lista: 173822 Euro
+Exterior / vopsea:
+
+	• 297 Vopsea MANUFAKTUR gri Selenite magno
+	• RWY Jante AMG din aliaj 53.3 cm (21´´), vopsite negru, design multispite
+	• 840 Geamuri laterale spate si luneta cu tenta inchisa
+
+Interior / tapiterie:
+
+	• 805 Piele Nappa bej Macchiato / gri
+	• H08 Ornamente din lemn de tei cu insertii de antracit
+
+Dotari optionale:
+
+	• PYO Pachet Premium Plus
+	• PAG Hyperscreen MBUX
+	• PYP Pachet Executive pentru locurile din spate
+	• PYF Linie AMG exterior
+	• 216 Punte spate directoare cu unghi de pana la 10°
+	• P53 ENERGIZING AIR CONTROL Plus
+	• PBS Pachet ENERGIZING pentru pasagerii din fata
+	• P21 Pachet AIR-BALANCE
+	• P55 Pachet Night
+	• U47 Eleron AMG ingust
+	• 21U Camera frontala pentru monitorizare trafic
+	• B60 Cheie rose gold
+	• 13U Preinstalare pentru servicii la distanta si de navigatie
+	• 14U Integrare smartphone
+	• 16U Apple CarPlay
+	• 17U Android Auto
+	• 1B3 Modul de comunicatii pentru ECE
+	• 215 Suspensie cu sistem adaptiv de amortizare
+	• 223 Scaune spate cu reglaj electric si functie de memorie
+	• 22U MBUX Entertainment
+	• 233 Asistent activ DISTRONIC
+	• 235 Asistent activ la parcare cu PARKTRONIC
+	• 236 Compartiment spate cu lumina adaptiva
+	• 241 Scaun fata stanga, ajustabil electric, cu functie de memorare
+	• 242 Scaun pasager ajustabil electric cu functie de memorare
+	• 243 Asistent activ pentru mentinerea benzii de rulare
+	• 262 Senzori spate pentru pastrarea benzii
+	• 266 Asistent activ directie
+	• 272 Asistent pentru manevra evaziva
+	• 275 Pachet memorie
+	• 287 Bancheta spate rabatabila
+	• 290 Airbaguri cortina
+	• 292 PRE-SAFE® Impuls lateral
+	• 293 Airbag-uri laterale pentru locurile din spate
+	• 294 Airbag genunchi
+	• 299 Sistem PRE-SAFE®
+	• 2S0 Cod control multimedia
+	• 2U8 Lichid de racire alternativ
+	• 309 Suport pentru sticla
+	• 30U Preinstalare pentru functia de proiectare a liniilor
+	• 318 DIGITAL LIGHT
+	• 31U MBCONNECT - Protectie antifurt
+	• 322 Sistem incalzire al gatului pentru pasagerii din spate
+	• 890 Haion EASY-PACK
+	• 898 Incarcare wireless pentru dispozitive mobile pentru locurile din spate
+	• 8U4 Incalzitor PTC pentru baterie Hybrid
+	• 8U8 Sistem i-Size pentru scaun copil
+	• 903 Incalzire scaune Plus pentru locurile din spate
+	• 9B2 Cablu de incarcare pentru Wallbox si statie de incarcare publica, 11kW, 5 metri, drept
+	• A02 Vehicul fara ambreiaj separat EATS
+	• B53 Indicator acustic de prezenta
+	• B59 DYNAMIC SELECT
+	• BAC Baterii HV, 2P2P108S
+	• EMA Motor electric fata 140 kW/2700 NM
+	• EMQ Motor electric spate 245 kW/5300 NM
+	• K32 Asistent activ la schimbarea benzii
+	• K33 Functie de repornire automata in blocajele de trafic
+	• K34 Adaptarea vitezei in functie de ruta
+	• P14 Pachet Electric Art interior
+	• 431 Padele galvanizate pe volan
+	• 7U2 Scaune confort
+	• 891 Lumina ambientala
+	• L2B Volan multifunctional imbracat in piele Nappa
+	• U12 Covorase velur
+	• P17 Pachet confort KEYLESS-GO
+	• 871 Acces HANDS-FREE
+	• 889 KEYLESS-GO
+	• P49 Pachet oglinda
+	• 249 Oglinzile interioara si exterioara stanga, heliomate
+	• 500 Oglinzi exterioare rabatabile electric
+	• 587 Lumina ambientala cu proiectie logo
+	• 914 Filtru de aer pentru aer conditionat
+	• P82 URBAN GUARD Plus
+	• 551 Sistem de alarma antifurt
+	• PAF Pachet confort acustic
+	• 321 Scanner amprenta
+	• 535 Sistem multimedia MBUX
+	• 860 Display OLED pentru pasager fata
+	• 399 Scaune fata multicontur
+	• 401 Scaune fata climatizate
+	• 443 Volan incalzit
+	• 902 Incalzire scaune Plus pentru locurile fata
+	• PDD Pachet Premium Plus
+	• 413 Trapa panoramica
+	• 581 Sistem de climatizare automata THERMOTRONIC
+	• 5B1 Spatiu aditional de depozitare in consola centrala
+	• 810 Sistem de sonorizare Burmester surround
+	• P20 Pachet de asistenta la conducere PLUS
+	• P47 Pachet parcare cu camera 360°
+	• PAX DIGITAL LIGHT
+	• PYB Pachet Base
+	• 20U Preinstalare pentru transfer cheie digitala
+	• 34U Servicii remote Premium
+	• 875 Instalatie pentru spalarea parbrizului cu lichid incalzit
+	• B30 Cablu de incarcare pentru priza domestica, 5 metri, drept
+	• B51 Kit interventie pana TIREFIT
+	• PBG MBUX Navigation Premium
+	• U19 Realitate augmentata MBUX pentru navigatie
+	• U25 Ornamente praguri inscriptionate Mercedes-Benz, iluminate
+	• P31 Linie AMG Exterior
+	• 899 Telefonie multifunctionala
+	• P43 Pachet confort scaune spate
+	• PAT Pachet scaune spate Plus
+	• R06 Anvelope cu spuma pentru absorbtia zgomotului
+	• U01 Indicator stare centuri de siguranta spate
+	• U10 Scaun pasager fata cu senzor de recunoastere a greutatii
+	• U60 Capota activa pentru protectia pietonilor
+
+———————————————————————————————————————————
+	• GARANTIE PRODUCATOR MERCEDES-BENZ
+	• PACHETE DE LEASING /  FINANTARE
+	• POSIBILITATE DE ACHIZITIONARE A AUTOTURISMULUI PRIN BUY-BACK    ",\N,\N,\N,"Da",\N,\N,"Gri",\N,\N,"2023-11-28 05:45:33","2023-05-03","https://www.autovit.ro/anunt/mercedes-benz-eqs-450-4matic-ID7HbenH.html","Autoturisme",\N,"2023-05-03",\N,"Automata",\N,"https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Inp0NTI5em1kNng1MjItQVVUT1ZJVFJPIiwidyI6W3siZm4iOiJxN216NTNiaWZwemstQVVUT1ZJVFJPIiwicyI6IjE2IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.31CGSu0PrwGKfbJ_eJoEXe__YY1cKQl5_ypf-NkmqlU/image;s=732x488",\N,"MERCEDES","2022","EQS","Mercedes-Benz EQS 450 4MATIC","310316","2023-01-24","7050989165","AUTOVIT","Second hand",\N
+"00055917-c954-5afa-95cf-eee5f065e553","DACIA","DOKKER","1.5 dCi 75 CP Ambiance","2018","75","146","D",\N,"M","Monovolum","Fata","4","2","169000","6900.00","EUR","None","Privat","None","None","EURO 6","108 g/km","NONE","ROMANIA","Popesti-Leordeni","Ilfov","None","Cauciucuri noi All Season Debica Navigator 3 
+
+Lada cu lacat de depozitat scule.
+
+Porbagaj cu cheie detasabil.
+
+Masina se prezinta in conditie foarte buna exterior , interiorul este ingrijit.
+
+Pentru mai multe detalii la numarul afisat.","None","https://www.autovit.ro/autoturisme/anunt/dacia-dokker-1-5-dci-75-cp-ambiance-ID7Hiqrl.html",\N,"NONE","None","None","ALB","METALIZATA","2024-04-08","2024-04-15 18:11:38","2024-04-16",\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N
+"0005742a-c479-5899-8536-54a062a31e0a","MERCEDES","M-CLASS","None","2010",\N,\N,"U",\N,"missing","None",\N,\N,\N,"159000","8655.46","NONE","None","None","",\N,"NONE",\N,"NONE","NONE","None","None","None","None","None","None",\N,"NONE",\N,\N,"NONE","NONE","2018-10-02","2021-10-11 14:25:10",\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N
+"0005780c-e367-55b1-a862-bf813e8474ee","SKODA","OCTAVIA","None","2009","140","200","D",\N,"M","Break","None","5",\N,"203180","5500.00","EUR","None","Persoana fizica","TMBKE61Z292062771","None","NONE","None","NONE","ROMANIA","None","None","None","DESCRIERE
+Skoda Octavia 2.0 TDI 4x4,140 cp , Inmatriculata RO
+An fabricatie 2009, 203180 km verificabili
+Pret: 5500 Euro Negociabil
+Tote reviziile la zi !
+Skoda Octavia
+-faruri Bi-xenon si lumini de zi
+-dubulu climatronix
+-oglinzi electrice si incalzite
+-geamuri electrice fata spate
+-port incarcare usb si aux
+-navigatie cu touch screen radio cd mp3 plus aux
+-inchidere centralizta
+-pilot automat
+-proiectoare ceata
+-senzori parcare spate cu afisaj
+-volan reglabil
+-2 chei
+Provenienta Romania,masina se afla intr-o stare buna estetic si mecanic ,accept variante cu x6 si diferenta din partea mea.
+Mai multe detalii la telefon 07******39","None","https://www.olx.ro/d/oferta/skoda-octavia-2-2-0-tdi-4x4-IDieVti.html",\N,"INMATRICULAT","None","None","NEGRU","NONE","2024-04-26","2024-05-03 12:12:04","2024-05-04",\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N
+"00057c32-d714-5aab-b6c2-d97a643a09c1","BMW","SERIES 5","530d AT","2018","258","2993","D",\N,"A","None",\N,"5",\N,"89000","29900.00","EUR","","Proprietar","None",\N,"EURO 6",\N,"SECOND HAND","NONE","Bucuresti, Judet Bucuresti, Sectorul 3","","","Propietar vand Bmw 530d - 265 CP, Luxury Line
+89.000 Km - istoric complet cu service online in reteau Bmw
+Reviziile facute doar la service BMW
+Accept test autorizat
+Exclus schimburi!
+
+*Twin Power Turbo 265 CP, Euro 6 Generatia noua
+*Cutie automata Steptronic 8+1 / AutoHold
+*Sistem ECO Start / Stop
+*Suspensie Adaptiva : Sport / Comfort / Eco-Pro
+*Faruri Adaptive LED - Daylight LED / Stopuri LED
+*Distronic -pilot automat Inteligent - Franeaza singur si mentine banda / Limitator viteza
+*Blind Spot, Pedestrian Alert , Collision Warning, Lane Departure Warning, Lane Change Warning, Side Collision Warning
+*Senzori ploaie / lumini / pneuri
+*Senzori parcare fata/spate
+*Camera parcare
+*Culoare Brown Metalic
+*Jante 17
+
+*Head Up - Display
+*Ceasuri Full Display - Sport
+*Ambient Lighting
+*Volan Sport cu padele
+*Climatronic 2-zone
+*Scaune piele, electrice cu incalzire
+*Sistem Audio Profesional Hi-Fi cu Subwoofer
+*Navigatie Mare / 3D cu Harta Romaniei - Hard Disk 80 GB
+*Apple Carplay / Android Auto - fullscreen
+*USB Player / Bluetooth / Conected iDrive","None","https://www.autovit.ro/anunt/bmw-seria-5-530d-at-ID7H9Qp6.html",\N,"DA","None",\N,"MARO","NONE",\N,"2023-03-28 12:03:30",\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N
+"00057db9-ec6a-50c7-90d3-0fd162380b23","PEUGEOT","508","None","2012","115",\N,"D",\N,"M","Break","None","5",\N,"282200","5200.00","RON","None","Persoana fizica","VF38E9HLOCLO42466","None","NONE","None","NONE","ROMANIA","None","None","None","DESCRIERE
+Vind peugeot 508 SW 1.6 115 disel in stare forte buna clima automata masina este adusa recent din franta petru mai multe informati sunatima","None","https://www.olx.ro/d/oferta/peugeot-508-sw-1-6-115-disel-IDidp34.html",\N,"NEINMATRICULAT","None","None","BEJ","NONE","2024-04-17","2024-04-26 08:20:07","2024-05-04",\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N
+"00061d9e-5285-5a34-b90c-32528ad176fa","TOYOTA","AURIS","None","2013","136","180","HYBRID",\N,"A","Combi","None","4/5",\N,"261231","9699.00","EUR","negociabil","Adrian","None","None","EURO 5","None","NEAVARIATA","ROMANIA","Sector 2","Bucuresti","None","Ofer la cerere RAPORT CARVERTICAL VERDE !!!
+Toyota Auris hibrid gpl Zenit Pro 55l
+Proprietar din 2021
+Distribuie pe lant
+3 Moduri de condus :
+EV mode
+ECO mode
+SPORT mode
+Consum extrem de mic 3.5-5 % benzina ,
+An fabricatie 12 2013
+Un plin de Gpl 700km autonomie .
+Impozit Bucuresti 6lei an
+Parcare gratuita Bucuresti
+Camera marsalier
+Navigatie
+Mp3 DvD Hi-Fi prize 12 v usb stick, aux .
+Bluetooth afisare agenda telefon
+Servotronic
+Clima
+Geamuri electrice
+Revizie la zi
+2 chei
+Keyless go
+Carlig cu conexiune electrica orig Toyota
+Bari transversale cu prindere plafon orig Toyota
+Euro 5
+Faruri Stopuri Led
+Clima automata 2 zone
+Comenzi volan
+Volan piele
+Pilot automat
+Cotiera fata spate
+Interior textil
+Proiectoare ceata
+Anvelope iarna vara Dot 2022
+Jante aliaj 15""
+Senzori ploaie lumini presiune roti
+Auto inmatriculat
+Accept orice testare autorizata !!! Publi24_1713862620","None","https://www.publi24.ro/anunturi/auto-moto/masini-second-hand/toyota/auris/anunt/toyota-auris-hibrid-gpl-zenit-pro-55l/di9fg5d95g0g75i21e822ff02h67d760.html",\N,"INMATRICULATA","2","None","NEGRU","DA","2024-04-23","2024-04-24 19:06:45","2024-05-04",\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N
+"00061ee8-acdf-5f74-9d5d-adec9204580f","LAND ROVER","DISCOVERY","None","2013","252","299","D",\N,"A","SUV","None","5",\N,"134000","18500.00","RON","None","Persoana fizica","SALLAAAG6DA673215","None","NONE","None","NONE","ROMANIA","None","None","None","DESCRIERE
+Land Rover Discovery IV echipare SE
+
+An 2013/ 3.0 Diesel, 252CP, Euro 5
+134000 Km
+Suspensie perne 3nivele
+4x4 permanent
+Cutie automata 8 trepte
+Diferential blocabil
+Diferite moduri de condus
+Sistemele de teren Range Rover
+Hill descent control (asistenta in coborarea pantelor).
+Faruri bixenon + cornering assist
+Plafon panoramic
+Navigatie touchscreen
+Volan incalzit si cu padele
+Interior piele
+Scaune incalzite
+Bancheta incalzita
+Sistem audio Harman/kardon logic7
+Parbriz cu degivrare
+Senzori parcare fata/spate
+Senzori ploaie
+Stopuri led
+Lumini ambientale
+Dublu climatronic
+Scaune cu memorie, full electrice incalzite fata spate
+Carlig remorcare Distributie facuta la Reprezentanta ..( 2500 euro )
+
+PRET: 18 500 + TVA . MAI MULTE DETALII LA TELEFON","None","https://www.olx.ro/d/oferta/land-rover-discovery-4-IDhqct6.html",\N,"INMATRICULAT","None","None","NEGRU","NONE","2024-02-26","2024-03-05 05:55:35",\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N
+"000634b4-d69f-489e-b4dd-1ef80da5122f",\N,\N,"1.6 4x2",\N,"105",\N,"U",\N,"M",\N,\N,"5",\N,"167644","7999.00","EUR","Se emite factura","Firma",\N,\N,"Euro 5",\N,\N,"Germania","Str. Corneliu Coposu - 40000 Cluj-Napoca, Judet Cluj (Romania)","Cluj","","
+        ~ NEXT CAR ~
+DEALER AUTO
+
+✅GARANTIE ✅ REVIZIE ✅ RATE ✅ NUMERE ROSII
+
+✅ GARANTIE - 3 LUNI IN LIMITA A 3000 DE KM - in pretul afisat fara perceperea unei extra taxe *
+Efectuam:
+✅ GRATUIT - Ultima REVIZIE (Toate filtrele + uleil in motor ) in momentul achizitionarii masinii *
+✅ GRATUIT - Numere zoll / Numere rosii *;
+✅ GRATUIT - Toate actele necesare inmatricularii *
+✅ GRATUIT - Asistenta Rutiera Nationala *
+
+➤➤➤ I M P O R T A N T ➤➤➤
+
+* Vindem masini CASH sau IN RATE prin partenerul nostru TBI Pay !
+* Avans 0 la aprobarea integrala in rate.
+* Posibilitate creditare rapida pentru persoane fizice – Aprobare in maxim 3 ore.
+* Perioada finantare : 6 - 60 Luni.
+* Dobanda de la 1% pe luna,in functie de SCORING-ul clientului.
+* Credit doar cu buletinul.
+* Vindem masini in TOATA tara.
+
+➤➤➤C O N D I T I I ➤ P E N T R U ➤ F I N A N T A R E ➤➤➤
+
+▶T B I
+* Minim 4 luni vechime la actualul angajator.
+* Fara istoric negativ in Biroul de credit.
+* Ratele sa nu depaseasca 40% din venitul net(respectiv 65% la salarii peste 3.200 lei).
+
+▶M O G O
+
+✅FINANȚĂM PERSOANE FIZICE
+-Angajatii cu o vechime de min.4 luni
+-Pensionarii - pana in 70 ani finalizarea creditului.
+-Persoane cu venituri din strainatate(contract de munca)
+-Persoane cu istoric NEGATIV in Biroul de credite
+-Persoane cu grad de îndatorare ridicat
+
+TRANSPORT GRATUIT IN TOATA TARA IN LIMITA A 200 KM – NEXT CAR HOME DELIVERY SAU NUMERE ROSII !
+
+—————————————————————————————————————————
+
+* * *  Dacia Duster  Prestige 
+
+* * * Motorizare Benzina + Gaz - 1.6Mpi
+
+Costuri de intretinere ,impozit si taxe foarte mici
+Import Germania.Unic proprietar.
+
+-Tapiterie full piele
+-Scaune confort din piele
+-Volan din piele
+-Aer  conditionat
+-Mp3 , Bluetooth
+-Servotronic
+-Computer de bord
+-Pilot automat
+-ABS
+-ESP
+-Geamuri electrice 
+-Inchidere  centralizata
+-Proiectoare ceata
+-Oglinzi electrice 
+-Bare longitudinale plafon
+-Jante aliaj pe 16 inch cu anvelope foarte bune
+-2 chei
+
+Carte service,revizii la zi .Istoric complet .Ultima revizie va fi facuta GRATUIT de catre noi , in pachetul NEXT CAR STANDARD PACK .
+
+Nu acceptam  schimburi.
+
+Mai multe poze puteti  gasi pe Autovit.ro.
+
+Next Car a depus toate diligenţele pentru a se asigura că informaţiile furnizate pe acest website sunt corecte şi complete la momentul publicării. Cu toate acestea, pot să apară erori neintenţionate sau accidentale, pentru existenţa cărora ne cerem scuze. Toate imaginile, textele, preţurile şi alte informaţii prezentate pe această pagină web şi cele conexe reprezintă informaţii cu titlu informativ, fără a genera obligaţii ferme. Este rezervat dreptul de a efectua modificări ulterioare.Toate preţurile afişate sunt cu titlu informativ şi supuse modificărilor.    ",\N,\N,\N,\N,\N,\N,"Verde",\N,\N,"2023-11-28 07:12:32","2023-06-01","https://www.autovit.ro/anunt/dacia-duster-1-6-4x2-ID7Hchj1.html","Autoturisme","1598","2023-06-01",\N,"Manuala",\N,"https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjJreHkyNW40dDc0Mi1BVVRPVklUUk8iLCJ3IjpbeyJmbiI6InE3bXo1M2JpZnB6ay1BVVRPVklUUk8iLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.Pr7xLd_WYfXX0M3IkHbV7PCFwBqJcyi1m6V75sZ9tYE/image;s=732x488",\N,"DACIA","2014","DUSTER","Dacia Duster 1.6 4x2",\N,"2013-10-20","7051238735","AUTOVIT","Second hand",\N
+"0006417d-dd46-56c0-a8a3-f417cd72191c","BMW","X5","M50d","2016","381","2993","D",\N,"A","None",\N,"5",\N,"190000","32500.00","EUR","Negociabil","Proprietar","None",\N,"NONE",\N,"SECOND HAND","NONE","Drobeta-Turnu Severin, Judet Mehedinti","","","BMW X5 / M50 D / 381 CP /PANORAMIC / DISTRONIC / SOFTCLOSE / HEAD-UP DISPLAY
+
+^Cutie automata 8+1 trepte 
+^Inmatriculata recent
+^Primul propietar 
+^190000km -istoric service 
+
+#// M PAKET interior / exterior 
+
+Interior seria 7
+Cusaturi contrastante 
+Full led
+Inteligent safety
+Distronic
+Lane assist
+Side assist
+Soft Close usi si portbagaj 
+keyless go
+keyless entry
+X-drive status 
+Pedestrian alert (recunoaste pietoni)
+Frond end collision (franeaza automat )
+Indicator recunoastere semnele de circulatie 
+Lumini ambientale interior (7 culori )
+Porbagaj actionat electric
+Trapa panoramica 
+Linie audio Harman Kardon
+Suspensie adaptive cu 4 moduri 
+Dublu Climatronic fata-spate 
+Incalzise + ventilatie scaune 
+Scaune sport full electric cu memorie 
+Camere 360
+Asistenta faza scurta faza lunga 
+ConnectedDrive 
+Privacy Glass 
+Oglinzi reglabile si rabatabile electric 
+Conexiune bluetooth (car-kit)
+Pilot automat 
+Tempomat 
+Proiectoare ceata led 
+Folow me home
+Jante aliaj R20 (cauciucuri noi)
+
+~Autotutismul se prezinta intr-o stare excelenta de functionare ,fara probleme de ordin tehnic sau estetic !!!!
+~Toate actele se finalizeaza la vanzarea autoturismului !!","Da","https://www.autovit.ro/anunt/bmw-x5-m-m50d-ID7HavvJ.html",\N,"DA","None",\N,"ALBASTRU","NONE",\N,"2023-04-14 12:01:45",\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N
+"00064bc4-d656-5c07-8dfd-5a61b1bd92e6","DACIA","LODGY","None","2013","110","1498","D",\N,"M","Hatchback",\N,\N,\N,"264000","4990.00","EUR","None","None","None",\N,"NONE",\N,"NONE","NONE","None","None","None","Diesel,110 cp,aer conditionat, geamuri electrice, pilot automat, folie omologata,taxe la zi,variante Logan 2022-2023","None","https://www.olx.ro/d/oferta/vand-dacia-lodgy-IDhx56v.html",\N,"NONE",\N,\N,"NEGRU","NONE","2023-09-04","2023-09-13 15:03:12",\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N
+"00065e76-0280-561f-84c5-7226bc27566f","FORD","KUGA","2.5 Duratec PHEV Titanium X","2020","152","248","HIBRID",\N,"A","SUV","Fata","5","5","71800","25800.00","EUR","None","Firma","None","None","EURO 6","None","NONE","GERMANIA","nr. 1 - 300278 Timisoara","Timis","None"," Masina se afla pe STOC la sediul nostru din Timisoara 
+
+ XVXCars vine in ajutorul dvs cu masini cu istoric garantat + urmatoarele avantaje: 
+
+ Garantie 12 luni / 30.000 km cu contract si polita de garantie avand posibilitate de extindere pana la 3 ani
+ Verificare temeinica + istoric complet al tuturor autovehiculelor comercializate
+ Finantare avantajoasa in sistem de leasing
+ Consultanta pe tot parcursul achizitiei
+ Posiblitatea achizitiei unui autoturism pe comanda
+ Reparatiile pe garantie se pot efectua in orice service autorizat RAR din Romania!
+
+Elementele incluse in garantie:
+
+ Motor
+ Diferential
+ Ambreiaj
+ Transmisie
+ Sistem de alimentare
+ Directie (inclusiv servodirectie)
+ Instalatie electrica
+ Frane
+ Tractiune pe patru roti
+ Convertor de cuplu
+ Materiale de lucru si carcase
+
+Robert Moldoveanu
+Show number
+office@xvxcars.ro
+
+Aici se afla lista dotarilor dupa codurile individuale, specificate dupa seria de sasiu:
+
+AC00G - Control climatizare pe 2 zone
+B2CAF - Geamuri electrice fata
+B2DAG - Geamuri electrice spate
+B2GAE - Privacy glass
+B3MAB - Incalzire parbriz
+JCBAM - Iluminare ambientala
+BSBAF - Oglinda retrovizoare electrocrom
+BSHCZ - Oglinzi exterioare electrice cu incalzire si rabatare electrica
+BY1AB - Scaune fata incalzite
+BYBAI - Bancheta spate incalzita
+CBGAL - Keyless entry / Keyless go
+CFFAN - Senzor de ploaie
+D19AG - Senzori de presiune pneuri
+FAJAC - Frana parcare electrica
+FBFAB - Sistem de atenuare a coliziunilor frontale
+FCCAB - Asistent franare de urgenta
+GTBAB - Incalzire in volan
+GTCAV - Cruise control
+HKCAB - Navigatie cu touchscreen
+HLNAB - Asistent de mentinere banda
+HNLAB - Senzori parcare fata
+HNKAB - Senzori parcare spate
+IDBA6 - Sistem audio Bang and Olufsen cu 10 difuzoare, 560 W
+IEXAB - Incarcare wireless
+JB1AB - Follow me home
+JEDAF - Asistent de faza lunga
+BYPAL - Scaun sofer reglabil in 8 directii
+BYQAL - Scaun pasager reglabil in 8 directii
+CFKAB - Spalatoare de faruri
+CN7AH - Airbag genunchi
+CP1AB - Airbag cortina stanga fata-spate
+CP2AB - Airbag cortina dreapta fata-spate
+CPGAB - Airbag sofer
+CPHAB - Airbag pasager
+CPMAB - Airbag lateral sofer
+CPNAB - Airbag lateral pasager
+CPSAB - Sistem de prindere ISOFIX
+DR00A - Tractiune fata
+JCEAB - Iluminare la picioare in fata
+WAEDX - Auto destinat pietei din Germania
+Toate reviziile au fost efectuate la reprezentanta
+Garantie de fabrica 8 ani la bateria de hibrid
+
+Pentru mai multe detalii va stam la dispozitie la telefon","None","https://www.autovit.ro/autoturisme/anunt/ford-kuga-2-5-duratec-phev-titanium-x-ID7Hg8sZ.html","2020-07-02","NONE","None","None","NEGRU","METALIZATA","2023-12-18","2023-12-22 01:17:02",\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N
+"00067031-8064-5cfd-bc92-bda46f057a80","SUZUKI","GRAND VITARA","2.0i JLX","2009","140","1995","U",\N,"M","None",\N,"5",\N,"188000","4500.00","EUR","Negociabil","Proprietar","None",\N,"NONE",\N,"SECOND HAND","NONE","Bodogaia, Judet Harghita","","","Adusa din Germania !!!
+Totul functioneaza perfect !!!
+Carte service  !!!
+Kilometri 100 % reali
+Baterie noua !!!
+Antifonat !!!","Da","https://www.autovit.ro/anunt/suzuki-grand-vitara-2-0i-jlx-ID7HdrKR.html",\N,"NONE","None",\N,"GRI","NONE",\N,"2023-07-12 06:01:52",\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N
+"000672bf-d56b-57bc-a96b-d5a6d0c8297d","JEEP","GRAND CHEROKEE","None","2015","250",\N,"D",\N,"missing","None",\N,\N,\N,"187000","22521.00","NONE","None","None","",\N,"NONE",\N,"NONE","NONE","None","None","None","None","None","None",\N,"NONE",\N,\N,"NONE","NONE","2018-10-02","2021-10-11 14:25:10",\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N
+"000689cc-2ff9-5a4b-8f87-248db65e3b54","FORD","RANGER","Pick-Up 2.0 EcoBlue 170 CP 4x4 Cabina Dubla Wildtrack Aut.","2022","170","1996","D",\N,"A","None",\N,"4",\N,"6814","37485.00","EUR","TVA deductibil, Negociabil, Se emite factura","Firma","None",\N,"EURO 6",\N,"SECOND HAND","ROMANIA","Str. Calea Bucuresti nr 115,comuna Pielesti - 200000 Craiova, Judet Dolj (Romania)","","","SPECIFICATII TEHNICE
+Putere 213 CP
+Transmisie Automata, 10viteze
+Norma de poluare STAGE 6.2
+Combustibil Diesel
+Tractiune integrala
+Tip motor 2.0L EcoBlue
+Cilindree 1996 cmc
+Ampatament 3220 mm
+Lungime totala (cu bara spate echipata) 5359 mm
+Latime totala (cu oglinzi extinse) 2163 mm
+Latime totala (cu oglinzile pliate) 1977 mm
+Lungimea benei de incarcare (la podea) 1575 mm
+Latimea benei de incarcare (la podea) 1560 mm
+Inaltimea benei (la centrul axei) 541 mm
+Inaltime de incarcare (neincarcat) 857 mm
+Spatiu efectiv la nivelul capului (in fata) 1022 mm
+Spatiu maxim efectiv la nivelul picioarelor (in spate) 902 mm
+Sarcina utila maxima totala 1024 kg
+Masa autorizata pe puntea fata 1480 kg
+Masa autorizata pe puntea spate 1850 kg
+Masa totala a vehiculului 3270 kg
+Masa proprie 2246-2374 kg
+Raport de transmisie 3,55
+Masa tractabila fara sistem de franare 750 kg
+Masa tractabila cu sistem de franare 3500 kg
+Masa maxima ansamblu rutier 6000 kg
+
+DOTARI STANDARD 
+ABS & ESP+
+Acoperire podea - covoras
+Airbag lateral montat in scaun la nivelul toracelui
+Airbag pasager
+Airbag sofer
+Airbag-uri laterale si tip cortina
+Anvelope 265/60 R18 A/S
+Aparatori de noroi fata
+Aparatori de noroi spate
+Asistenta inteligenta pentru viteza
+Avertizare centuri de siguranta sofer/pasager
+Avertizor temperatura scazuta
+Bancheta randul doi
+Bara de protectie fata
+Bara fata plastic in culoarea caroseriei
+Bena Pick-up - Carlige interioare pentru fixare
+Buson alimentare Ford Easy Fuel
+Camera video spate
+Capitonaj Premium panou interior cabina
+Capitonare capota motor
+Caroserie ramforsata
+Centuri de siguranta inertiale in trei puncte locurile spate
+Cheie pliabila
+Claxon cu doua tonalitati
+Comenzi multimedia pe volan
+Compartimente de depozitare pe spatarul soferului
+Consola centrala cu 2 compartimente
+Oglinda retrovizoare electrocromatica
+Oglinzi laterale vopsite Boulder Grey
+Oglinzi incalzite si pliabile electric cu semnalizator integrat
+Ornament bord Ebony
+Pachet Standard Wildtrak (Grila frontala radiator vopsita,
+Inchidere centralizata bena, Pachet scaune fata 52, Pachet
+siguranta 16, Acoperire podea - covoras, Oglinzi laterale
+vopsite Boulder Grey, Manere usi vopsite Boulder Grey,
+Stergatoare cu senzor de ploaie, Senzori parcare spate,
+Diferential de blocare spate, Sistem electronic de control al
+temperaturii - (DEATC), Pilot automat, Sistem de alarma
+antifurt volumetric, Camera video spate, Lumini cu aprindere automata On/Off)
+Pachet radio 123 (Radio AM/FM, SYNC 3 AM/FM, TMC si RDS,
+Bluetooth, USB, conexiune AUX pentru dispozitive externe de
+muzica, Ecran tactil TFT 8"", 6 boxe, Navigatie, Microfon si mufa
+pentru alimentare pentru spate, Sistem electronic de control al
+temperaturii - (DEATC), Modem incorporat 4, Control activ al zgomotului)
+Pachet roti 20 (Jante aliaj 18"" x 8.0, Anvelope 265/60 R18 A/S, Roata de rezerva pe 18"")
+Pachet scaune fata 52 (Scaune electrice incalzite pentru sofer
+si pasager
+Pachet scaune spate 11 (Cotiera spate, scaunul din centru,
+Convertor 220V
+Cosola imbracata cu vinil
+Diferential de blocare spate
+Directie servoasistata electric (EPAS)
+Doua chei cu telecomanda
+Ecran tactil TFT de 8''
+Faruri cu LED
+Frana de mana cu maner si buton cromat
+Fara semalizatoare laterale
+Fara bara spate subrulare
+Geam electric sofer cu coborare/ridicare dintr-o apasare
+Geamuri fumurii
+Geamuri laterale electrice spate
+Grila frontala radiator vopsita
+Hayon cu mecanism Easy-lift
+Iluminare torpedou
+Indicator avertizare nivel lichid de parbriz
+Instalatie carlig de remorcare
+Instrumente de bord superioare
+Jante aliaj 18"" x 8.0
+Lampa de ceata spate
+Lampa de frana montata in partea de sus
+Lumini cu aprindere automata On/Off
+Lumini de zi
+Lumini frontale de ceata cu LED
+Lumina ambientala LED
+Luneta incalzita
+Martor avertizare defectiune
+Martor dezactivare airbag pasager
+Maner hayon bena cromat
+Maner hayon turnat, in culoare proprie
+Manere sustinere - fata interior
+Manere usi vopsite Boulder Grey
+Manere usi in interior cromate
+Centuri de siguranta inertiale in trei puncte locurile spate,
+Accesorii de fixare ISOFIX)
+Pachet tapiterie interior 20
+Parasolar pasager cu oglinda si capac cu iluminare
+Parasolar sofer cu spatiu depozitare, oglinda cu capc si iluminare
+Parbriz incalzit
+Pilot automat
+Recunoasterea indicatoarelor de viteza
+Roata de rezerva pe 18""
+Sacaune sofer si pasager incalzite
+Scaun sofer reglabil electric pe 8 directii
+Scut protectie motor si cutie transfer
+Senzori parcare fata
+Senzori parcare spate
+Senzori presiune roti
+Sistem de alarma antifurt volumetric
+Sistem de avertizare a coliziunii
+Sistem de avertizare la parasirea benzii de circulatie
+Sistem de blocare usi spate pentru copii
+Sistem de management al bateriei
+Sistem de tratare a emisiilor (AdBlue) - 20L
+Sistem fixare scaun copil bancheta spate
+Sistem fixare scaun copil bancheta spate - tip Isofix
+Sistem franare cu discuri fata / tamburi spate
+Sistem pasiv Keyless Entry & Start
+Tapiterie panou usi Wildtrak
+Termometru temperatura exterioara
+Tetiera scaun spate central
+Treapta bara spate in culoare Boulder Grey Step
+Treapta laterala cu insertii slefuite
+Volan sport imbracat in piele
+Vopsea Boulder Grey grila radiator
+Inchidere centralizata bena
+Inchidere centralizata dubla
+Inchidere centralizata pe frecventa inalta
+Sine acoperis
+Stergatoare cu senzor de ploaie
+DOTARI OPTIONALE ADAUGATE
+ Vopsea metalizata, Sabre 
++  Wildtrak Driver Assistance Pack with Park Assist  (Asistenta activa la parcare; Pilot Automat
+Autoadaptiv)
++ Pachet de upgrade functional 20 (Sistem de ancorare marfa in bena prin inele; Sports bar - Arcada
+cu iluminare pentru bena, sine laterale si lampa de frana spate montata in partea de sus; Rulou acoperire bena actionat electric)
++  Carlig de remorcare  (Instalatie electrica carlig remorcare)
++  Eliminare sistem start/stop","None","https://www.autovit.ro/anunt/ford-ranger-pick-up-2-0-ecoblue-170-cp-4x4-cabina-dubla-wildtrack-aut-ID7Ha7EI.html",\N,"DA","None",\N,"AURIU","NONE",\N,"2023-04-06 06:03:01",\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N
+"000690ec-f3bb-541e-885a-2da5d96e8277","VOLKSWAGEN","PASSAT CC","None","2009","170","19683","D",\N,"M","None",\N,"4",\N,"272000","6750.00","EUR","Negociabil","Firma","None",\N,"EURO 4",\N,"SECOND HAND","NONE","Strada Grigore Alexandrescu FN - 300351 Timisoara, Judet Timis (Romania)","","","VW Passat CC 2.0 TDi 170 Cp 2009
+
+* An 2009
+* Motor 2000 cmc diesel
+* 170 de cai putere
+* Norma de poluare Euro 4
+* Rulaj 272000 km
+* Cutie de viteze manuala cu 6+1 trepte
+* Geamuri eletcrice fata si spate
+* Oglinzi incalzite electric
+* Dublu climatronic
+* Computer de bord
+* Comenzi pe volan
+* Volan reglabil pe inaltime si adancime
+* Navigatie mare 3D color cu touchscreen
+* Tapiterie din piele + Alcantara
+* Incalzire in scaune
+* Inchidere centralizata
+* ABS, ESP, servodirectie, airbag-uri
+* Senzori de ploaie si lumina
+* Senzori de parcare
+* Faruri bi-xenon adaptive
+* Proiectoare de ceata
+* Jante de aliaj
+* Stare foarte buna tehnic si optic
+* Accept variante.
+
+*** NU RASPUND LA MESAJE SAU MAIL! ***
+*** PROPRIETAR PERSOANA FIZICA! ***
+
+Pret 6750 euro negociabil.  Telefon  072 - arata numarul -","None","https://www.autovit.ro/anunt/volkswagen-passat-cc-ID7H9cUA.html",\N,"NONE",\N,\N,"ALB","NONE","2023-03-14","2023-03-14 18:02:09",\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N
+"0006b157-db29-5e83-8ffe-d4b9af42ea51","DACIA","LOGAN","None","2013","75","114","U",\N,"M","Berlina","None","4",\N,"115300","5500.00","RON","None","Persoana fizica","UU14SDAG448905080","None","NONE","None","NONE","ROMANIA","None","None","None","DESCRIERE
+Dacia Logan 2 Laureat
+An fabricatie 2013
+Motorizare 1,2 benzina Euro 5
+Consum 7% urban
+-servodirectie
+-volan reglabil
+-ABS
+-airbag sofer si pasager
+-scaun reglabil pe inaltime
+-avertizare sonora lumini
+-indicator luminos schimbare trepte viteze
+-avertizare centuri de siguranta
+-geamuri electrice fata
+-oglinzi electrice
+-volan piele
+-aer conditionat
+-cd player cu bluetooth (aux, usb)
+-anvelope noi iarna
+-proiectoare ceata
+
+Revizie motor si schimbare placute de frana si discuri la 115.000 km
+ITP valabil 2025","None","https://www.olx.ro/d/oferta/vand-dacia-logan-IDhQa1t.html",\N,"INMATRICULAT","None","None","ALB","NONE","2023-12-20","2023-12-22 22:55:15",\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N
+"0006b234-13ca-50e3-be90-ee246a56b2ac","SKODA","FABIA","None","2011",\N,"1598","D",\N,"M","Break",\N,\N,\N,"171525","3900.00","EUR","Negociabil","Proprietar","",\N,"",\N,"UTILIZAT","","Cluj-Napoca, judet Cluj","Cluj","","Motor 1.6 TDI 105CP EURO5
+
+Bare portbagaj
+Jante de aliaj originale
+Incalzire in scaunele fata
+Climatronic
+Senzori de parcare spate
+Set anvelope de iarna
+Geamuri electrice fata
+Faruri cu lupA, lumini de zi si faruri de ceaEA cu functie cornering 
+Scaune faEA reglabile pe AnAlEime
+Banchete spate fractionate
+Geamuri heliomate din fabricA
+Interior curat ETMi Angrijit
+Roata de rezerva originala noua
+Tavita portbagaj si presuri tip tavita
+Istoric service
+Discuri si placute frana fata si spate schimbate anul trecut
+Filtru de particule in garantie","","https://www.olx.ro/oferta/skoda-fabia-1-6-tdi-IDeC435.html#e0da8025ad","2011-05-31","",\N,\N,"GRI","","2021-04-26","2021-10-19 17:24:29",\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N
+"0006c044-afb5-5241-866a-1b1776234ae6","RENAULT","CAPTUR","TCe Turbo Stop/Start Authentique","2017","90","89","U",\N,"M","SUV","Fata","5","5","49000","13250.00","EUR","None","Firma","None","None","EURO 6","113 g/km","NONE","GERMANIA","Jud. Harg - 535600 Odorheiu Secuiesc","Harghita","None","Euro-Car Trading vinde Renault Captur
+
+An fabricatie: 2017 (prima inmatriculare februarie 2018)
+
+Motorizare: 0.9 TCE 90 CP euro6
+
+Cutie de viteze: Manuala 5+1 trepte
+
+Rulaj: 49.000 Km
+
+Autoturism import din Germania.
+
+Inmatriculat in Romania.
+
+Carte service cu revizii la zi.
+
+Raport Carvertical
+
+Ultima revizie in Aprilie 2024 in urma cu 500 km. (ulei+toate filtre+frane fata inlocuite)
+
+2 seturi de anvelope
+
+Garantie 12 luni
+
+Dotari:
+
+- ABS, ESP, ASR + asistenta la plecare in rampa
+
+- 6 airbaguri
+
+- Inchidere centralizata cu telecomanda
+
+- Pornire la buton
+
+- Aer conditionat
+
+- Sistem stop/start
+
+- Tempomat si limitator de viteza
+
+- Volan imbracat in piele cu comenzi
+
+- 4 geamuri electrice
+
+- Oglinzi reglabile si rabatabile electric cu incalzire
+
+- Senzori de parcare spate
+
+- Sistem multimedia cu Android cu touchscreen
+
+- Conexiune USB si Bluetooth
+
+- Senzori de preiune in roti
+
+- Computer bord
+
+- Faruri ceata
+
+- Lumini de zi LED
+
+- Jante aliaj pe 16
+
+- Etc.
+
+Pentru mai multe detalii sau programare drive test va rugam sa-ne contactati telefonic sau prin e-mail!","None","https://www.autovit.ro/autoturisme/anunt/renault-captur-tce-turbo-stop-start-authentique-ID7HmQN8.html","2018-02-21","NONE","None","None","GRI","METALIZATA","2024-05-30","2024-06-03 19:57:19","2024-06-12",\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N
+"0006ccfe-3fdf-53a8-b34c-9ba8d64c7e09","LAND ROVER","RANGE ROVER SPORT","None","2011","246","300","D",\N,"missing","Masina de teren","None","None",\N,"265000","12000.00","EUR","None","Radu Ciobanu","None","None","NONE","None","NEAVARIATA","ROMANIA","Iasi","Iasi","None","vand sau schimb cu auto.motor 2000. land ROVER sport cu trapa motor 3000 246 cp an 2011 luna 11 masina personala revizia facut acum 2000 de Km in masina sau schimbat toate consumabilele baterie nou distributia schimbata si multele alte masina este tinuta impecabila interior exterior la cerere va pot trimite verificare pe car vertical masina nu a fost lovita sau Km dati inapoi masina are 265000 de km Publi24_1708126658","None","https://www.publi24.ro/anunturi/auto-moto/masini-second-hand/land-rover/range-rover-sport/anunt/vand-sau-schimb-cu-auto-motor-2000/828560h7658g78881f9f7g681355g837.html",\N,"INMATRICULATA","None","None","missing","NONE","2024-02-17","2024-03-04 19:03:16",\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N
+"0006d52c-0a3c-5dda-9088-4453df4e6c78","RENAULT","MEGANE","None","2011","110","149","D",\N,"M","Break","None","5",\N,"232000","5399.00","RON","None","Persoana fizica","VF1KZ5G0645788064","None","NONE","None","NONE","ROMANIA","None","None","None","DESCRIERE
+Renault Megane III SporTour
+
+Motor 1.5 dci
+Km Reali, fara daune
+Aer conditionat functional
+Geamuri electrice
+Geamuri fumurii spate
+Oglinzi electrice
+Pilot automat
+Navigatie originala
+Jante aliaj
+ABS,ESP, controlul tractiunii
+Masina este recent importata din Italia, adusa personal pe roti. Nu necesita investitii in motor,recent au fost schimbate toata articulatia fata si baterie, urmeze de uzura specifice varstei. Masina de poate verifica pe carVertical, de altfel detin raportul si il pot oferi daca este nevoie. RAR efectuat!!","None","https://www.olx.ro/d/oferta/renault-megane-iii-sportour-1-5-dci-IDi0pUA.html",\N,"NEINMATRICULAT","None","None","GRI","NONE","2024-03-12","2024-03-22 11:17:47","2024-04-15",\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N
